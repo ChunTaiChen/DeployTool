@@ -1,0 +1,45 @@
+﻿<Release Version="2.0.2.2">
+  <Files>
+    <File Name="HsinChu.ClassExamScoreAvgComparison.dll" Folder="" Size="190976" Digest="QXA4EvLUcCIUKdkDneuCs1JQuAw=">
+      <AssemblyName>HsinChu.ClassExamScoreAvgComparison, Version=1.0.0.8, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.8</Version>
+    </File>
+    <File Name="HsinChu.ClassExamScoreAvgComparison.pdb" Folder="" Size="93696" Digest="qCNzELHDMAYgnGOzQ/ZUj3h0h6o=" />
+    <File Name="HsinChu.ClassExamScoreReportV2.dll" Folder="" Size="118272" Digest="xk7+sPXt/l93JgIpKWpINMbO3uo=">
+      <AssemblyName>HsinChu.ClassExamScoreReportV2, Version=1.0.0.7, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.7</Version>
+    </File>
+    <File Name="HsinChu.ClassExamScoreReportV2.pdb" Folder="" Size="138752" Digest="GuqGcne+9OM5S2ZZ9HA2RlfVwp8=" />
+    <File Name="HsinChu.JHEvaluation.Data.dll" Folder="" Size="9728" Digest="1hT663f2YT2Nm1uL0AO7hA1f0Ew=">
+      <AssemblyName>HsinChu.JHEvaluation.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.3</Version>
+    </File>
+    <File Name="HsinChu.JHEvaluation.Data.pdb" Folder="" Size="30208" Digest="77IsgU/Z4lDrVKvDQiIzl+FtcOE=" />
+    <File Name="HsinChu.JHEvaluation.Data.xml" Folder="" Size="5111" Digest="JGoJDdcqJx3tMFJ260vjclZQLmY=" />
+    <File Name="HsinChu.JHEvaluation.dll" Folder="" Size="214528" Digest="g9NRparq6D3Y7x6TpvgN6U45wJY=">
+      <AssemblyName>HsinChu.JHEvaluation, Version=1.0.0.21, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.21</Version>
+    </File>
+    <File Name="HsinChu.JHEvaluation.pdb" Folder="" Size="339456" Digest="3aXXk7HrLq+odNQ8xK//dHLxG8I=" />
+    <File Name="HsinChu.MidTermTransferReport.dll" Folder="" Size="120832" Digest="3Ue7NJgl2IAJulVOqB54mLwPbc8=">
+      <AssemblyName>HsinChu.MidTermTransferReport, Version=1.0.0.9, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.9</Version>
+    </File>
+    <File Name="HsinChu.MidTermTransferReport.pdb" Folder="" Size="120320" Digest="KG5GUptESuC5Ik07kcAvmBfMfCY=" />
+    <File Name="HsinChu.StudentExamScoreReport.dll" Folder="" Size="154624" Digest="U/cgJ4RN5lSmIQszpEwBvh7NQyw=">
+      <AssemblyName>HsinChu.StudentExamScoreReport, Version=1.0.0.29, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.29</Version>
+    </File>
+    <File Name="HsinChu.StudentExamScoreReport.pdb" Folder="" Size="151040" Digest="M+3MA5o7OX7OTaJJYtBmA8i6EBE=" />
+    <File Name="HsinChu.StudentRecordReport.dll" Folder="" Size="233472" Digest="4KA/8pX9wlihtwWZZu5RTxtn3fo=">
+      <AssemblyName>HsinChu.StudentRecordReport, Version=1.0.1.5, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.1.5</Version>
+    </File>
+    <File Name="HsinChu.StudentRecordReport.pdb" Folder="" Size="151040" Digest="dfr936DsKOnbyMCKJUDihsLplak=" />
+    <File Name="HsinChu.TransferReport.dll" Folder="" Size="138752" Digest="/pSS+IhF9RE3Jlcv+udmURnPz0I=">
+      <AssemblyName>HsinChu.TransferReport, Version=1.0.1.13, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.1.13</Version>
+    </File>
+    <File Name="HsinChu.TransferReport.pdb" Folder="" Size="130560" Digest="OANayZ7jt8mmKcG8h9C1b/fWVeE=" />
+  </Files>
+</Release>

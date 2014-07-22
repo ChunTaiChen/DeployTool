@@ -1,0 +1,34 @@
+﻿<Release Version="0.0.1.13">
+  <Files>
+    <File Name="K12.Report.LeaveInfoImport.dll" Folder="" Size="23040" Digest="Ffs4SX+eIIkfqR0EyX0n2d+aU/0=">
+      <AssemblyName>K12.Report.LeaveInfoImport, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.2</Version>
+    </File>
+    <File Name="K12.Report.LeaveInfoImport.pdb" Folder="" Size="46592" Digest="oEL/xeVPwEt5eRI+J25kLaDYUbw=" />
+    <File Name="OfficialStudentRecord.dll" Folder="" Size="137216" Digest="wgnUqWjRWRgKqG6QNhNNbntRGEQ=">
+      <AssemblyName>OfficialStudentRecord, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.6</Version>
+    </File>
+    <File Name="OfficialStudentRecord.pdb" Folder="" Size="48640" Digest="u42IhcFzYLlYiw9hyKuH/dp7LGI=" />
+    <File Name="SHStudentCard.dll" Folder="" Size="119808" Digest="9MLmopL0/wRbtKX5WHb9B6LbmoA=">
+      <AssemblyName>SHStudentCard, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.6</Version>
+    </File>
+    <File Name="SHStudentCard.pdb" Folder="" Size="36352" Digest="E0r5h8dL8G7+oE9nlyLTv1+KU/k=" />
+    <File Name="SmartSchool.GovernmentalDocument.HS.dll" Folder="" Size="524800" Digest="KrsMp+LPNiBXM6to4fAquKLD/e8=">
+      <AssemblyName>SmartSchool.GovernmentalDocument.HS, Version=1.0.4.5, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.4.5</Version>
+    </File>
+    <File Name="SmartSchool.GovernmentalDocument.HS.pdb" Folder="" Size="482816" Digest="B0u5vdR2iGpwKIRzHSpYdHNRIWs=" />
+    <File Name="UpdateRecordModule_SH_D.dll" Folder="" Size="1158656" Digest="jCNFRF19T151gTaM1WQoIp4fo+g=">
+      <AssemblyName>UpdateRecordModule_SH_D, Version=1.0.0.20, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.20</Version>
+    </File>
+    <File Name="UpdateRecordModule_SH_D.pdb" Folder="" Size="706048" Digest="d0/GNBhLy3zOVJznOggFdh6LNV8=" />
+    <File Name="UpdateRecordViewForm.dll" Folder="" Size="31232" Digest="LDzYcDzhycNmTtilphm44NUOE24=">
+      <AssemblyName>UpdateRecordViewForm, Version=1.0.0.4, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.4</Version>
+    </File>
+    <File Name="UpdateRecordViewForm.pdb" Folder="" Size="46592" Digest="bE2Q6KMcmeFACWcWU2iJ3lPNzKA=" />
+  </Files>
+</Release>

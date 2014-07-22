@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Apps>
+  <App Title="輔導系統Beta" Description="" Output2="" Name="K12CounselSystem_Beta" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國中高雄學籍" Description="" Output2="" Name="KaoHsiungJHPermrec" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國中成績延伸Beta" Description="" Output2="" Name="JHEvaluationExtensions_Beta" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國中成績延伸" Description="" Output2="" Name="JHEvaluationExtensions" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國中核心_Beta" Description="" Name="JHCore_Beta" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國中核心" Description="" Name="JHCore" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高中學籍_Beta" Description="" Output2="" Name="SHDayPermrec_Beta" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高中學籍" Description="" Output2="" Name="SHDayPermrec" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國中高雄成績_Beta" Description="" Output2="" Name="KaoHsiungJHEvaluation_Beta" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國中新竹成績_Beta" Description="" Output2="" Name="HsinChuJHEvaluation_Beta" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國中新竹學籍" Description="" Output2="" Name="JHPermrec" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國中新竹學籍_Beta" Description="" Output2="" Name="JHPermrec_Beta" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國中高雄學籍_Beta" Description="" Output2="" Name="KaoHsiungJHPermrec_Beta" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國中台中學籍_Beta" Description="" Output2="" Name="TaiChungJHPermrec_Beta" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國中新竹成績" Description="" Output2="" Name="HsinChuJHEvaluation" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國中高雄成績" Description="" Output2="" Name="KaoHsiungJHEvaluation" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國中台中學籍" Description="" Output2="" Name="TaiChungJHPermrec" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國中成績核心_Beta" Description="" Output2="" Name="JHEvaluation_Beta" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國中成績核心" Description="" Output2="" Name="JHEvaluation" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高中核心_Beta" Description="" Output2="" Name="SHSchoolLoader_Beta" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高中核心" Description="" Name="SHSchoolLoader" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國小成績" Description="" Output2="" Name="MOD_ELEvaluation" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="台中學籍表" Description="" Output2="" Name="TaiChungStudentRecordReport" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="忠信全中部客製報表" Description="" Output2="" Name="Chhs_JHReport" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="家長管理" Description="" Output2="" Name="ParentModule" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="大里學期成績單epost" Description="" Output2="" Name="SemesterScoreReportNewEpost" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="重補修" Description="" Output2="" Name="K12Retake_Shinmin" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高中成績內部測試用" Description="" Output2="" Name="SHEvTest" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="期末成績通知單(測試版)epost" Description="" Output2="" Name="SH_yhcvs_SemesterScoreReport" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高中學籍日校" Description="" Output2="" Name="SHDayPermrec_D" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高雄高中學籍日校" Description="" Output2="" Name="SHDayPermrec_KHD" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高雄高中學籍進校" Description="" Output2="" Name="SHDayPermrec_KHN" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高中學籍進校" Description="" Output2="" Name="SHDayPermrec_N" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高中成績" Description="" Output2="" Name="SHEvaluation_Beta" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高中成績" Description="" Output2="" Name="SHEvaluation" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高雄市局端系統" Description="" Output2="" Name="KH_Central.OfficeSystem" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="員林個人段考成績單epost" Description="" Output2="" Name="SH_yhcvs_ExamScore_epost" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="新竹國中成績報表" Description="" Output2="" Name="JHHsinChuScoreReports" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高雄國中成績報表" Description="" Output2="" Name="JHKaoHsiungScoreReports" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="世界高中輔導報表" Description="" Output2="" Name="wvsCounselReport" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國高中學籍工具" Description="" Output2="" Name="K12PermrecTools" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="重補修" Description="" Output2="" Name="K12Retake" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高中舊學籍表" Description="" Output2="" Name="SHArchiveImage" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="十二年國教" Description="" Output2="" Name="JHWishEnrolmentExcess" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高中成績延伸模組" Description="" Output2="" Name="SHEvaluationExtensions" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="門禁模組(中華電信)" Description="" Output2="" Name="AccessControlCardCHT" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高中學籍進校延伸模組" Description="" Output2="" Name="SHDayPermrec_N_Extend" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="體適能模組" Description="" Output2="" Name="K12SportsFitness" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="舊版高中系統外掛載入器" Description="" Output2="" Name="CustomizationPlugInLoader" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="臺中國中成績報表" Description="" Output2="" Name="JHTaiChungScoreReports" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="和美高中成績報表" Description="" Output2="" Name="SH_hmjh_EvaluationScoreReport" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="國際部課程成績模組" Description="" Output2="" Name="CourseGradeB" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高雄自動編班模組" Description="" Output2="" Name="KH_HighConcern" ReplaceAllReleaseFromAlpha="true" />
+</Apps>

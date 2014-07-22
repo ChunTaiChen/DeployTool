@@ -1,0 +1,239 @@
+﻿<Release Version="2.2.9.3">
+  <Files>
+    <File Name="Aspose.BarCode.dll" Folder="" Size="1319656" Digest="sZKurXwcq2f/+drVySX0zqjlSgo=">
+      <AssemblyName>Aspose.BarCode, Version=2.3.2.0, Culture=neutral, PublicKeyToken=716fcc553a201e56</AssemblyName>
+      <Version>2.3.2.0</Version>
+    </File>
+    <File Name="Aspose.BarCode.xml" Folder="" Size="274868" Digest="hNIWUpzYC0ujajfXw/Corw4VPlg=" />
+    <File Name="Aspose.Cells.dll" Folder="" Size="2326528" Digest="utrUvtb/Skhj1gBFmid4ERZlWwQ=">
+      <AssemblyName>Aspose.Cells, Version=4.3.0.0, Culture=neutral, PublicKeyToken=9a40d5a4b59e5256</AssemblyName>
+      <Version>4.3.0.0</Version>
+    </File>
+    <File Name="Aspose.Cells.xml" Folder="" Size="535889" Digest="3gvkNU/3pLhMUOG4rFrYbnwlta4=" />
+    <File Name="Aspose.Words.dll" Folder="" Size="2350208" Digest="Py/8fBBtSo7wshQzp0dfPNDm+ko=">
+      <AssemblyName>Aspose.Words, Version=4.4.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56</AssemblyName>
+      <Version>4.4.0.0</Version>
+    </File>
+    <File Name="Aspose.Words.xml" Folder="" Size="694799" Digest="yLHRUKz6MnZQmdgRnQQDryXoM30=" />
+    <File Name="AWSSDK.dll" Folder="" Size="4846592" Digest="UbYfDkZYOPqNzS8TimR5lZbeyjk=">
+      <AssemblyName>AWSSDK, Version=2.0.4.1, Culture=neutral, PublicKeyToken=9f476d3089b52be3</AssemblyName>
+      <Version>2.0.4.1</Version>
+    </File>
+    <File Name="AWSSDK.xml" Folder="" Size="12887673" Digest="L77JB7VoTpDQbS3ZNm6zKxmDdtA=" />
+    <File Name="DataRationality.dll" Folder="" Size="9216" Digest="elv3szXMnMAJcwONIHXA7QH/BdY=">
+      <AssemblyName>DataRationality, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.6</Version>
+    </File>
+    <File Name="DataRationality.pdb" Folder="" Size="26112" Digest="kcxkKVNrj0PDAe0nrzspe/k/4FQ=" />
+    <File Name="DocValidate.dll" Folder="" Size="52736" Digest="fZ8Hy04+uhU/5/cEHwIRQrvaGq4=">
+      <AssemblyName>DocValidate, Version=1.1.3.7, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.1.3.7</Version>
+    </File>
+    <File Name="DocValidate.pdb" Folder="" Size="165376" Digest="e86h3V8buDq296tk3OkMhtBU31g=" />
+    <File Name="Framework.dll" Folder="" Size="673792" Digest="JNGzMDj1NDqTZBhnlVbS3kSkuNk=">
+      <AssemblyName>Framework, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.2</Version>
+    </File>
+    <File Name="Framework.pdb" Folder="" Size="601600" Digest="xLj1yPa6hxaJWsHms07Zcc/NQ1w=" />
+    <File Name="iAccess.dll" Folder="" Size="224256" Digest="hRuRwoTeZzdh23/L4wMB/0GqPKI=">
+      <AssemblyName>iAccess, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.2.0.0</Version>
+    </File>
+    <File Name="iAccess.pdb" Folder="" Size="445952" Digest="eAKg6EOah+ZWOvYoclRSXq9GO00=" />
+    <File Name="IntelliSchool.DSA.ClientFramework.dll" Folder="" Size="73728" Digest="SmLHS9aKMS3vj4Dd3mbjLLE8ids=">
+      <AssemblyName>IntelliSchool.DSA.ClientFramework, Version=1.2.2.1, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.2.2.1</Version>
+    </File>
+    <File Name="IntelliSchool.DSA.ClientFramework.xml" Folder="" Size="32085" Digest="/2mYaGwfWrZPdAr1H3G1EYhZvyM=" />
+    <File Name="iQuery.dll" Folder="" Size="229888" Digest="x7GQUDyiRa51JB+raksGiVVKbKM=">
+      <AssemblyName>iQuery, Version=1.1.0.5, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.1.0.5</Version>
+    </File>
+    <File Name="iQuery.pdb" Folder="" Size="136704" Digest="P4Fi2zzxPxEbHcnZBJrI1J/TLxA=" />
+    <File Name="iRationality.dll" Folder="" Size="52224" Digest="zx0l9JYUqa4fEzDaWg7G5Ubyrok=">
+      <AssemblyName>iRationality, Version=1.1.0.5, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.1.0.5</Version>
+    </File>
+    <File Name="iRationality.pdb" Folder="" Size="44544" Digest="1LmwLgi9mg2tMbAPrb4axezwdzQ=" />
+    <File Name="K12.BusinessLogic.dll" Folder="" Size="28160" Digest="UhAWvmdzpApx66yHfEXsHT0Lv80=">
+      <AssemblyName>K12.BusinessLogic, Version=1.4.0.2, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.4.0.2</Version>
+    </File>
+    <File Name="K12.BusinessLogic.pdb" Folder="" Size="56832" Digest="gCtNhBAc6/uuv79UTyApLB6Y+0s=" />
+    <File Name="K12.BusinessLogic.xml" Folder="" Size="16145" Digest="hbshP78hPZc+qaZ23N7nNkoptEQ=" />
+    <File Name="K12.Course.dll" Folder="" Size="50688" Digest="B9WOSglnI6C5KFf9owjjQW36itQ=">
+      <AssemblyName>K12.Course, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.6</Version>
+    </File>
+    <File Name="K12.Course.pdb" Folder="" Size="46592" Digest="eFe9jqD3IDMMhXc6Gf+99ptX7u8=" />
+    <File Name="K12.Data.dll" Folder="" Size="479744" Digest="axAStVyw3LNYK53dqbg9t+7rccQ=">
+      <AssemblyName>K12.Data, Version=2.0.0.5, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>2.0.0.5</Version>
+    </File>
+    <File Name="K12.Data.pdb" Folder="" Size="996864" Digest="pAkuoDMDnmfXocZjdF9SpI2kY4s=" />
+    <File Name="K12.Data.xml" Folder="" Size="661026" Digest="G6bgp+fLDlSPPxnlr7TMPaDzk7M=" />
+    <File Name="K12.DataRationality.dll" Folder="" Size="110080" Digest="8+isYZDFsf1Kj2QwOWh6Juq3vm8=">
+      <AssemblyName>K12.DataRationality, Version=1.2.0.5, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.2.0.5</Version>
+    </File>
+    <File Name="K12.DataRationality.pdb" Folder="" Size="200192" Digest="SfKSrJ4pYmvS2+23Bv6IhWP2sEU=" />
+    <File Name="K12.DeleteStudentTeacher.dll" Folder="" Size="15872" Digest="0sTkEUvfSHkFU43bkMsj02G2AxA=">
+      <AssemblyName>K12.DeleteStudentTeacher, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.1</Version>
+    </File>
+    <File Name="K12.DeleteStudentTeacher.pdb" Folder="" Size="28160" Digest="PANTbZV3F98Di2ooVUOjm23eFCI=" />
+    <File Name="K12.EduAdminDataMapping.dll" Folder="" Size="55808" Digest="/8x2CDUmX1tY/fTdORe+5vE/8P0=">
+      <AssemblyName>K12.EduAdminDataMapping, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+    <File Name="K12.EduAdminDataMapping.pdb" Folder="" Size="36352" Digest="YrGgVwuo5bV7r09EvYqNirIAXlk=" />
+    <File Name="K12.General.Feedback.dll" Folder="" Size="1211904" Digest="plyLuM+w+PABLO9c7NcNNJGQcaY=">
+      <AssemblyName>K12.General.Feedback, Version=1.0.1.4, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.1.4</Version>
+    </File>
+    <File Name="K12.General.Feedback.pdb" Folder="" Size="177664" Digest="Y0x2DK2iBdx38t7Gk7OTEhc20PY=" />
+    <File Name="K12.Logic.dll" Folder="" Size="26112" Digest="3qeAIpHh1ZpjPrwOWWLTBoot4KY=">
+      <AssemblyName>K12.Logic, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.1</Version>
+    </File>
+    <File Name="K12.Logic.pdb" Folder="" Size="50688" Digest="/v701gobQDkwOdEl66qCeimKPsk=" />
+    <File Name="K12.Logic.XML" Folder="" Size="14132" Digest="kmmbthxSgjOwkLpt1ZKwXx3zFog=" />
+    <File Name="K12.Presentation.dll" Folder="" Size="34304" Digest="LXq4Ti/mg8vNa9yUyRTAHr7UJs8=">
+      <AssemblyName>K12.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+    <File Name="K12.Presentation.xml" Folder="" Size="1626" Digest="7cd9kg60h1b24V9dpZb7C7lIf+E=" />
+    <File Name="K12BatchStudentSemesterHistory.dll" Folder="" Size="13824" Digest="LZU7wFSROcTGhFsnQX52ySSspkE=">
+      <AssemblyName>K12BatchStudentSemesterHistory, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.2</Version>
+    </File>
+    <File Name="K12BatchStudentSemesterHistory.pdb" Folder="" Size="22016" Digest="7zG4BZy8/0otM2LpKivjzgksJOU=" />
+    <File Name="K12SwapAttendStudent.dll" Folder="" Size="43008" Digest="1Ackzh7FCwwFNsNvDwQXzl4IeLs=">
+      <AssemblyName>K12SwapAttendStudent, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.1</Version>
+    </File>
+    <File Name="K12SwapAttendStudent.pdb" Folder="" Size="54784" Digest="cT6+0K3cLpR1tUmdTV0/lTRUHOQ=" />
+    <File Name="OnlineUpdateClient.dll" Folder="" Size="32768" Digest="Ev2Zrn0doDnKu8MqG7no66kIsDw=">
+      <AssemblyName>OnlineUpdateClient, Version=1.0.0.10, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.10</Version>
+    </File>
+    <File Name="ReportHelper.dll" Folder="" Size="33280" Digest="NpjO4h/U5Xyv5aZYDotI0bMB5bs=">
+      <AssemblyName>ReportHelper, Version=2014.4.16.1, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>2014.4.16.1</Version>
+    </File>
+    <File Name="ReportHelper.dll.config" Folder="" Size="118" Digest="gEbR5HZe9tEfZeLg+gu4aiQjC/o=" />
+    <File Name="ReportHelper.pdb" Folder="" Size="56832" Digest="LZr0eHRs6KPOyG7nkbNOpsLxunA=" />
+    <File Name="ReportHelper.XML" Folder="" Size="3771" Digest="aw8euQWu6Me5UiQdH0qHoz8m3wA=" />
+    <File Name="SHSchool.Affair.dll" Folder="" Size="12288" Digest="834yJyPVKFQ7lylxtGVvUOela+4=">
+      <AssemblyName>SHSchool.Affair, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.1</Version>
+    </File>
+    <File Name="SHSchool.Affair.dll.urls" Folder="" Size="225" Digest="c3WjOvP+mYTW9w9YJafbS39sjK8=" />
+    <File Name="SHSchool.Affair.pdb" Folder="" Size="26112" Digest="JW/y6k+1R8b0PHmAnWYLF1jjj6o=" />
+    <File Name="SHSchool.BusinessLogic.dll" Folder="" Size="11776" Digest="iH96+iVrbK9URWFlc6plCjFsf6k=">
+      <AssemblyName>SHSchool.BusinessLogic, Version=1.3.0.6, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.3.0.6</Version>
+    </File>
+    <File Name="SHSchool.BusinessLogic.pdb" Folder="" Size="26112" Digest="O0/46BSEFqbLwm29038lLDDmnS0=" />
+    <File Name="SHSchool.BusinessLogic.xml" Folder="" Size="4684" Digest="A/ePta2jG5SfOdrQmp5+WvH/jjw=" />
+    <File Name="SHSchool.Data.dll" Folder="" Size="123392" Digest="m1VaEJzafaq9CviL8h4s8+tET14=">
+      <AssemblyName>SHSchool.Data, Version=2.0.0.2, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>2.0.0.2</Version>
+    </File>
+    <File Name="SHSchool.Data.pdb" Folder="" Size="382464" Digest="+ZSYACkPv9yHc7/HPyE5eSWDg8M=" />
+    <File Name="SHSchool.Data.xml" Folder="" Size="382209" Digest="QdKl+MrBFGQf07xIS0mEZElhTeQ=" />
+    <File Name="SHSchool.DataRationality.dll" Folder="" Size="18944" Digest="e0DII+Md10TrKINkqb1HLYGG71Y=">
+      <AssemblyName>SHSchool.DataRationality, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.2.0.0</Version>
+    </File>
+    <File Name="SHSchool.DataRationality.pdb" Folder="" Size="32256" Digest="hQohYAJZXHz2osWOTk166DyCMuc=" />
+    <File Name="SHSchoolLoader.dll" Folder="" Size="382464" Digest="Jr400fQMh47XAZUeGByXA28M3BU=">
+      <AssemblyName>SHSchoolLoader, Version=1.0.0.5, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.5</Version>
+    </File>
+    <File Name="SHSchoolLoader.pdb" Folder="" Size="19968" Digest="+NjxNMYtBFcbUL070Ps7szuzCNs=" />
+    <File Name="SHStatus.dll" Folder="" Size="5120" Digest="NA0Smw+9OokS1LowYYn+eIfDcQ0=">
+      <AssemblyName>SHStatus, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+    <File Name="SHStatus.pdb" Folder="" Size="11776" Digest="Zay8B+iIur1VVx+i/Mm/k8tDYLk=" />
+    <File Name="SkypeControl.dll" Folder="" Size="24576" Digest="ZRmZXBQcPgiyPzJ8Mwf11vrb0SY=">
+      <AssemblyName>SkypeControl, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+    <File Name="SmartSchool.AccessControl.dll" Folder="" Size="7680" Digest="qspei8I4eoB+hWJqA2oA9mmqXoE=">
+      <AssemblyName>SmartSchool.AccessControl, Version=1.0.0.5, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.5</Version>
+    </File>
+    <File Name="SmartSchool.AccessControl.pdb" Folder="" Size="22016" Digest="lqyHh1lf+BRKMjw8Wy9aXytRyPY=" />
+    <File Name="SmartSchool.API.PlugIn.dll" Folder="" Size="17920" Digest="ckBQSWxQbHcQJPSQyGIBwVDVf2U=">
+      <AssemblyName>SmartSchool.API.PlugIn, Version=0.0.0.3, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>0.0.0.3</Version>
+    </File>
+    <File Name="SmartSchool.Broadcaster.dll" Folder="" Size="7168" Digest="ZOEgAU1Z5/9EsGStZ+ip6xGNxeE=">
+      <AssemblyName>SmartSchool.Broadcaster, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.3</Version>
+    </File>
+    <File Name="SmartSchool.Broadcaster.pdb" Folder="" Size="22016" Digest="kY4h+1xbRk3ebChUWmUPOxqLC3U=" />
+    <File Name="SmartSchool.Common.Aspose.dll" Folder="" Size="5632" Digest="1ctmiIMQV7cF07itdzroSTzI4/s=">
+      <AssemblyName>SmartSchool.Common.Aspose, Version=1.0.0.4, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.4</Version>
+    </File>
+    <File Name="SmartSchool.Common.Aspose.pdb" Folder="" Size="11776" Digest="S+nRtFcjhNPCGC4xi32pfX1JlfM=" />
+    <File Name="SmartSchool.Common.Aspose.xml" Folder="" Size="150" Digest="FLEkfj9WWRnl0BltN3lqoE75i48=" />
+    <File Name="SmartSchool.Common.dll" Folder="" Size="45056" Digest="5Ei0gZcvta8ToTXTFs0kz4hQMek=">
+      <AssemblyName>SmartSchool.Common, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.6</Version>
+    </File>
+    <File Name="SmartSchool.Common.DotNetBar.dll" Folder="" Size="26112" Digest="SsZIfcSO2ftyi9Jw5y2MXgP03jc=">
+      <AssemblyName>SmartSchool.Common.DotNetBar, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.6</Version>
+    </File>
+    <File Name="SmartSchool.Common.DotNetBar.pdb" Folder="" Size="69120" Digest="K1nYwT/Orz9vRtBJ5leGp06CxFs=" />
+    <File Name="SmartSchool.Common.DotNetBar.xml" Folder="" Size="6750" Digest="9RsAnMqzvKN3Wk3SmU/7/5Abi80=" />
+    <File Name="SmartSchool.Common.pdb" Folder="" Size="128512" Digest="SRvzhQfm2XjDwAZJCO8kJs/qtyI=" />
+    <File Name="SmartSchool.Common.xml" Folder="" Size="42892" Digest="25petfZf2M+Su9lHG6GdgIEt2JM=" />
+    <File Name="SmartSchool.Core.dll" Folder="" Size="2064896" Digest="GRqZDujrBAlzxCh7oQrSQoovyQE=">
+      <AssemblyName>SmartSchool.Core, Version=1.0.4.5, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.4.5</Version>
+    </File>
+    <File Name="SmartSchool.Core.General.dll" Folder="" Size="5303808" Digest="5rRe0iFYYjx9fOUKXuGtKmyw3y8=">
+      <AssemblyName>SmartSchool.Core.General, Version=1.0.8.14, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.8.14</Version>
+    </File>
+    <File Name="SmartSchool.Core.General.pdb" Folder="" Size="3968512" Digest="jLUkx8FZLsivvUeySBVoqTwQ0c0=" />
+    <File Name="SmartSchool.Core.HS.dll" Folder="" Size="799744" Digest="k/mL7SOktnUXU7B5vX8QzpU1wsU=">
+      <AssemblyName>SmartSchool.Core.HS, Version=1.0.4.4, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.4.4</Version>
+    </File>
+    <File Name="SmartSchool.Core.HS.pdb" Folder="" Size="916992" Digest="E/z2mN0lH3gKgBdEiG9nVDuu5/k=" />
+    <File Name="SmartSchool.Core.pdb" Folder="" Size="1160704" Digest="Su6BfZ70oz4i8xdKWbjXOycLuQw=" />
+    <File Name="SmartSchool.Customization.Data.dll" Folder="" Size="49152" Digest="De/rmDhg76wwylhn5rF4uMJC9VE=">
+      <AssemblyName>SmartSchool.Customization.Data, Version=1.3.0.1, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.3.0.1</Version>
+    </File>
+    <File Name="SmartSchool.Customization.Data.xml" Folder="" Size="89442" Digest="v1ZpAgb6iUUdIAmzbh6nVmmjEgk=" />
+    <File Name="SmartSchool.Customization.PlugIn.dll" Folder="" Size="40960" Digest="cfKT2xOieV5iegugMklt+wf2ZD4=">
+      <AssemblyName>SmartSchool.Customization.PlugIn, Version=1.1.4.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.1.4.0</Version>
+    </File>
+    <File Name="SmartSchool.Customization.PlugIn.xml" Folder="" Size="42124" Digest="naUAieiTNskP2/2mKeQ774D6XQM=" />
+    <File Name="SmartSchool.ePaper.dll" Folder="" Size="20480" Digest="POqDXQE342uGVeUvrXG3Tagnajs=">
+      <AssemblyName>SmartSchool.ePaper, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.1</Version>
+    </File>
+    <File Name="SmartSchool.ePaper.xml" Folder="" Size="1470" Digest="TFRI7lblshMrRnI9QSr4w/xCBPo=" />
+    <File Name="SmartSchool.ErrorReporting.dll" Folder="" Size="24064" Digest="FkBYAeVIRobF1W7Qmz8LlV9mC/8=">
+      <AssemblyName>SmartSchool.ErrorReporting, Version=1.0.2.13, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.2.13</Version>
+    </File>
+    <File Name="SmartSchool.ErrorReporting.pdb" Folder="" Size="40448" Digest="51m136k8tAf1GZbH69QBY68vMjs=" />
+    <File Name="SmartSchool.ErrorReporting.xml" Folder="" Size="946" Digest="a6otjXwG+B3j9mnQekbNTgHi1ig=" />
+    <File Name="SmartSchool.ExceptionHandler.dll" Folder="" Size="18944" Digest="dE4+iHY9eDvBr3VnNHpey3UFyAY=">
+      <AssemblyName>SmartSchool.ExceptionHandler, Version=1.9.0.1, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.9.0.1</Version>
+    </File>
+    <File Name="SmartSchool.ExceptionHandler.pdb" Folder="" Size="36352" Digest="XNZoirKZmhrE90nhkw41ZLlj2xk=" />
+    <File Name="Tagging.xml" Folder="" Size="22052" Digest="taVIAnl0mQ89EvNTd9Tw8U/aXuM=" />
+  </Files>
+</Release>

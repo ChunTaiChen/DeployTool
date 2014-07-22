@@ -1,0 +1,41 @@
+﻿<Release Version="2.0.3.0">
+  <Files>
+    <File Name="JHPermrec.UpdateRecord.dll" Folder="" Size="1619456" Digest="UXzAG8MSMwHy7kD97s/MobxMBFA=">
+      <AssemblyName>JHPermrec.UpdateRecord, Version=1.0.2.49, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.2.49</Version>
+    </File>
+    <File Name="JHPermrec.UpdateRecord.pdb" Folder="" Size="1121792" Digest="CmYfg85RBYXEXBtiNhcttzHfauE=" />
+    <File Name="JHSchool.Permrec.dll" Folder="" Size="1822208" Digest="TcMNVrgdc4K0n2aBPzeVtZB8DeY=">
+      <AssemblyName>JHSchool.Permrec, Version=1.0.2.8, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.2.8</Version>
+    </File>
+    <File Name="JHSchool.Permrec.pdb" Folder="" Size="1015296" Digest="zvH79yZDUpnkc6ZW+100Dv1/XNs=" />
+    <File Name="KaoHsiung.JHPermrecAdminUpload.dll" Folder="" Size="76288" Digest="MTbLeGDWH5qzUj4QiDFUgTcEXcc=">
+      <AssemblyName>KaoHsiung.JHPermrecAdminUpload, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.3</Version>
+    </File>
+    <File Name="KaoHsiung.JHPermrecAdminUpload.dll.config" Folder="" Size="1101" Digest="GvX4w0eoKFQE3GxgJnXM2e0SG0g=" />
+    <File Name="KaoHsiung.JHPermrecAdminUpload.pdb" Folder="" Size="67072" Digest="JxySjdVt57bHWUsjWKy8TTRVGoY=" />
+    <File Name="KaoHsiung.txt" Folder="" Size="9" Digest="v71KaI05YgN8XtnEAbnMut0fblU=" />
+    <File Name="KaoHsiungUploadPermrecUDS.dll" Folder="" Size="29184" Digest="IxO8/BbyT3qxO+aZtEaFFpWzDj0=">
+      <AssemblyName>KaoHsiungUploadPermrecUDS, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.2</Version>
+    </File>
+    <File Name="KaoHsiungUploadPermrecUDS.pdb" Folder="" Size="40448" Digest="DbMeKjPQaAMSwjWJBuXzYNNtHIs=" />
+    <File Name="StudentTools1.dll" Folder="" Size="20992" Digest="rdfacvRmBf5MAUEzGYJyfLcyoX8=">
+      <AssemblyName>StudentTools1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+    <File Name="StudentTools1.pdb" Folder="" Size="32256" Digest="Gfek0qag+BuOgKi+pJV2w2dylPU=" />
+    <File Name="Student_JSBT.dll" Folder="" Size="37888" Digest="tje6o+bHzRsYvtXVN0gz93QGGoI=">
+      <AssemblyName>Student_JSBT, Version=1.0.0.7, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.7</Version>
+    </File>
+    <File Name="Student_JSBT.pdb" Folder="" Size="54784" Digest="UiDZnisKfsrLKxYYsEr57i3xngY=" />
+    <File Name="UserDefineData.dll" Folder="" Size="139776" Digest="GkMrbC/U9v9hN91vWA+pGPm8Trk=">
+      <AssemblyName>UserDefineData, Version=1.0.0.12, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.12</Version>
+    </File>
+    <File Name="UserDefineData.pdb" Folder="" Size="259584" Digest="CtRq0jWpmal+5y85MfIG8Yn2zIE=" />
+  </Files>
+</Release>

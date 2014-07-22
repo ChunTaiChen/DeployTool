@@ -1,0 +1,9 @@
+﻿<Release Version="0.0.0.2">
+  <Files>
+    <File Name="SHSchool.Evaluation.dll" Folder="" Size="15872" Digest="x26i5SO2JDODH8d1EgasJd+zN8Y=">
+      <AssemblyName>SHSchool.Evaluation, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.3</Version>
+    </File>
+    <File Name="SHSchool.Evaluation.pdb" Folder="" Size="34304" Digest="YSfD2MFxJgUTPm8nvA87o4lg7zU=" />
+  </Files>
+</Release>

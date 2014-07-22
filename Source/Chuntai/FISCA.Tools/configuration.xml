@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration KeyPairFile="">
+  <App Name="JHPermrec_Beta" Title="國中新竹學籍_Beta" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\JHPermrec_Beta" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\JHPermrec_Beta" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.5">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="HsinChuJHEvaluation_Beta" Title="國中新竹成績_Beta" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\HsinChuJHEvaluation_Beta" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\HsinChuJHEvaluation_Beta" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.4">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="JHCore_Beta" Title="國中核心_Beta" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\JHCore_Beta" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\JHCore_Beta" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.1">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="JHEvaluation_Beta" Title="國中成績核心_Beta" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\JHEvaluation_Beta" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\JHEvaluation_Beta" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.2">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="JHEvaluationExtensions_Beta" Title="國中成績延伸_Beta" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\JHEvaluationExtensions_Beta" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\JHEvaluationExtensions_Beta" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.01">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="K12CounselSystem_Beta" Title="輔導系統_Beta" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\K12CounselSystem_Beta" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\K12CounselSystem_Beta" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.14">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="KaoHsiungJHPermrec_Beta" Title="國中高雄學籍_Beta" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\KaoHsiungJHPermrec_Beta" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\KaoHsiungJHPermrec_Beta" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.5">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="KaoHsiungJHEvaluation_Beta" Title="國中高雄成績_Beta" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\KaoHsiungJHEvaluation_Beta" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\KaoHsiungJHEvaluation_Beta" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.4">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="TaiChungJHPermrec_Beta" Title="國中台中學籍_Beta" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\TaiChungJHPermrec_Beta" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\TaiChungJHPermrec_Beta" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.5">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="SHArchiveImage_Beta" Title="高中舊學籍表_Beta" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\SHArchiveImage_Beta" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\SHArchiveImage_Beta" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.0">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="SHDayPermrec_Beta" Title="高中學籍_Beta" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\SHDayPermrec_Beta" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\SHDayPermrec_Beta" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.5">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="SHSchoolLoader_Beta" Title="高中核心_Beta" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\SHSchoolLoader_Beta" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\SHSchoolLoader_Beta" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.1">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="JHPermrec" Title="國中新竹學籍" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\JHPermrec" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\JHPermrec" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.3">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="HsinChuJHEvaluation" Title="國中新竹成績" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\HsinChuJHEvaluation" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\HsinChuJHEvaluation" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.2">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="JHCore" Title="國中核心" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\JHCore" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\JHCore" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.1">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="JHEvaluation" Title="國中成績核心" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\JHEvaluation" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\JHEvaluation" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.1">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="JHEvaluationExtensions" Title="國中成績延伸" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\JHEvaluationExtensions" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\JHEvaluationExtensions" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.1">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="KaoHsiungJHPermrec" Title="國中高雄學籍" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\KaoHsiungJHPermrec" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\KaoHsiungJHPermrec" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.3">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="KaoHsiungJHEvaluation" Title="國中高雄成績" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\KaoHsiungJHEvaluation" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\KaoHsiungJHEvaluation" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.2">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="TaiChungJHPermrec" Title="國中台中學籍" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\TaiChungJHPermrec" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\TaiChungJHPermrec" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.1">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="SHArchiveImage" Title="高中舊學籍表" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\SHArchiveImage" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\SHArchiveImage" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.0">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="SHDayPermrec" Title="高中學籍" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\SHDayPermrec" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\SHDayPermrec" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.1">
+    <Description></Description>
+    <References />
+  </App>
+  <App Name="SHSchoolLoader" Title="高中核心" SourceFolder="C:\DeploymentAE\Chuntai\Modules_Source\SHSchoolLoader" OutputFolder="C:\DeploymentAE\Chuntai\Modules_Target\SHSchoolLoader" AlpahVersion="2.0.0.0" BetaVersion="" StableVersion="2.0.0.1">
+    <Description></Description>
+    <References />
+  </App>
+</Configuration>

@@ -1,0 +1,14 @@
+﻿<Release Version="0.0.0.10">
+  <Files>
+    <File Name="HsinChuExamScore_JH.dll" Folder="" Size="1510912" Digest="JzDtge3/u+b+YCaSL85CXvOlxKs=">
+      <AssemblyName>HsinChuExamScore_JH, Version=1.0.0.11, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.11</Version>
+    </File>
+    <File Name="HsinChuExamScore_JH.pdb" Folder="" Size="146944" Digest="EENjR8DhfB9IxMXSTy1kiCSr0KA=" />
+    <File Name="JH.TC.DataExchange.103.dll" Folder="" Size="104960" Digest="26VIeHq/GhkKAuoCcD47lz1GN0M=">
+      <AssemblyName>JH.TC.DataExchange.103, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.6</Version>
+    </File>
+    <File Name="JH.TC.DataExchange.103.pdb" Folder="" Size="56832" Digest="Ytz1azLQe07Qp/JNNzIs4P3IuFc=" />
+  </Files>
+</Release>

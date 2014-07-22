@@ -1,0 +1,9 @@
+﻿<Release Version="0.0.0.4">
+  <Files>
+    <File Name="SCETakeAnalysis.dll" Folder="" Size="47104" Digest="sJFr6/uKIRm+rVTVPTPg+LwC9Bo=">
+      <AssemblyName>SCETakeAnalysis, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.2</Version>
+    </File>
+    <File Name="SCETakeAnalysis.pdb" Folder="" Size="32256" Digest="WCjXq/rT0arHqF9dK0I1p/eFO4U=" />
+  </Files>
+</Release>

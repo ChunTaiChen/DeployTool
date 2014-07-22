@@ -1,0 +1,30 @@
+﻿<Release Version="2.0.2.5">
+  <Files>
+    <File Name="JHPermrec.UpdateRecord.dll" Folder="" Size="1619456" Digest="UXzAG8MSMwHy7kD97s/MobxMBFA=">
+      <AssemblyName>JHPermrec.UpdateRecord, Version=1.0.2.49, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.2.49</Version>
+    </File>
+    <File Name="JHPermrec.UpdateRecord.pdb" Folder="" Size="1121792" Digest="CmYfg85RBYXEXBtiNhcttzHfauE=" />
+    <File Name="JHSchool.Permrec.dll" Folder="" Size="1822208" Digest="TcMNVrgdc4K0n2aBPzeVtZB8DeY=">
+      <AssemblyName>JHSchool.Permrec, Version=1.0.2.8, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.2.8</Version>
+    </File>
+    <File Name="JHSchool.Permrec.pdb" Folder="" Size="1015296" Digest="zvH79yZDUpnkc6ZW+100Dv1/XNs=" />
+    <File Name="StudentTools1.dll" Folder="" Size="20992" Digest="rdfacvRmBf5MAUEzGYJyfLcyoX8=">
+      <AssemblyName>StudentTools1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+    <File Name="StudentTools1.pdb" Folder="" Size="32256" Digest="Gfek0qag+BuOgKi+pJV2w2dylPU=" />
+    <File Name="Student_JSBT.dll" Folder="" Size="37888" Digest="tje6o+bHzRsYvtXVN0gz93QGGoI=">
+      <AssemblyName>Student_JSBT, Version=1.0.0.7, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.7</Version>
+    </File>
+    <File Name="Student_JSBT.pdb" Folder="" Size="54784" Digest="UiDZnisKfsrLKxYYsEr57i3xngY=" />
+    <File Name="TaiChung.txt" Folder="" Size="8" Digest="yXbuRuCwh8VRsRraYTJanb61Tbw=" />
+    <File Name="UserDefineData.dll" Folder="" Size="139776" Digest="GkMrbC/U9v9hN91vWA+pGPm8Trk=">
+      <AssemblyName>UserDefineData, Version=1.0.0.12, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.12</Version>
+    </File>
+    <File Name="UserDefineData.pdb" Folder="" Size="259584" Digest="CtRq0jWpmal+5y85MfIG8Yn2zIE=" />
+  </Files>
+</Release>

@@ -1,0 +1,555 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Tagging</name>
+    </assembly>
+    <members>
+        <member name="T:Tagging.TagConfigRecordCache">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Tagging.CacheManager`1">
+            <summary>
+            提供可被索引的強型別資料的快取管理
+            </summary>
+            <typeparam name="T">快取管理的型別</typeparam>
+        </member>
+        <member name="M:Tagging.CacheManager`1.GetAllData">
+            <summary>
+            一次取得所有資料項目
+            </summary>
+            <returns>傳回索引鍵跟快取資料的查詢</returns>
+        </member>
+        <member name="M:Tagging.CacheManager`1.GetData(System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+            一次取得部份指定鍵值的資料。
+            </summary>
+            <param name="primaryKeys">要取得的鍵值</param>
+            <returns>傳回索引鍵跟快取資料的查詢</returns>
+        </member>
+        <member name="M:Tagging.CacheManager`1.ValidateKey(System.String)">
+            <summary>
+            驗證輸入的鍵值是否合法，當要求查尋資料時若鍵值不合法則不進行查尋
+            預設驗證方法為是否可轉化為int
+            </summary>
+            <param name="key">鍵值</param>
+            <returns>是否合法</returns>
+        </member>
+        <member name="M:Tagging.CacheManager`1.WaitSyncComplete">
+            <summary>
+            等待 CacheManager 讀取資料的動作完成。
+            </summary>
+        </member>
+        <member name="M:Tagging.CacheManager`1.SyncAll">
+            <summary>
+            同步所有資料。
+            </summary>
+        </member>
+        <member name="M:Tagging.CacheManager`1.#ctor">
+            <summary>
+            建構子
+            </summary>
+        </member>
+        <member name="M:Tagging.CacheManager`1.SyncAllBackground">
+            <summary>
+            取得所有資料，此方法將於背景執行續進行，並於完成後引發ItemLoaded事件
+            </summary>
+        </member>
+        <member name="M:Tagging.CacheManager`1.SyncData(System.String[])">
+            <summary>
+            更新快取資料，更新後將會引發ItemUpdated事件
+            </summary>
+            <param name="primaryKeys">要更新資料的鍵值</param>
+        </member>
+        <member name="M:Tagging.CacheManager`1.SyncData(System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+            更新快取資料，更新後將會引發ItemUpdated事件
+            </summary>
+            <param name="primaryKeys">要更新資料的鍵值</param>
+        </member>
+        <member name="M:Tagging.CacheManager`1.SyncDataBackground(System.String[])">
+            <summary>
+            更新快取資料，此方法將於背景執行續進行，並於完成後引發ItemUpdated事件
+            </summary>
+            <param name="primaryKeys">要更新資料的鍵值</param>
+        </member>
+        <member name="M:Tagging.CacheManager`1.SyncDataBackground(System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+            更新快取資料，此方法將於背景執行續進行，並於完成後引發ItemUpdated事件
+            </summary>
+            <param name="primaryKeys">要更新資料的鍵值</param>
+        </member>
+        <member name="M:Tagging.CacheManager`1.OnItemUpdated(Tagging.ItemUpdatedEventArgs)">
+            <summary>
+            引發ItemUpdated事件。
+            </summary>
+            <param name="itemUpdatedEventArgs">包含事件資料的ItemUpdatedEventArgs</param>
+        </member>
+        <member name="M:Tagging.CacheManager`1.OnItemLoaded(System.EventArgs)">
+            <summary>
+            引發ItemLoaded事件。
+            </summary>
+            <param name="eventArgs">包含事件資料的EventArgs</param>
+        </member>
+        <member name="M:Tagging.CacheManager`1.SortItems">
+            <summary>
+            重新排序快取資料，快取的資料型別若為IComparable則將自動進行排序
+            不需呼叫此方法也會維持順序，唯有當IComparable.CompareTo實作變更時使用此方法重新排序
+            </summary>
+        </member>
+        <member name="M:Tagging.CacheManager`1.QuickCompare(System.String,System.String)">
+            <summary>
+            取得資料順序
+            </summary>
+            <param name="primaryKey1">第一個項目的鍵值</param>
+            <param name="primaryKey2">第二個項目的鍵值</param>
+            <returns>
+            小於零：primaryKey1的項目小於 primaryKey2的項目 
+            等於零：primaryKey1的項目等於 primaryKey2的項目 
+            大於零：primaryKey1的項目大於 primaryKey2的項目 
+            </returns>
+        </member>
+        <member name="M:Tagging.CacheManager`1.GetEnumerator">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Tagging.CacheManager`1.System#Collections#IEnumerable#GetEnumerator">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Tagging.CacheManager`1.Item(System.String)">
+            <summary>
+            取得指定索引的項目，若指定的鍵值不存在則會先嚐試進行查尋。Indexer。
+            </summary>
+            <param name="primaryKey">取得項目的鍵值</param>
+            <returns>該鍵值的項目，若傳入鍵值沒有對應項目則傳回default(T)</returns>
+        </member>
+        <member name="P:Tagging.CacheManager`1.Items">
+            <summary>
+            取得管理項目的集合
+            </summary>
+        </member>
+        <member name="E:Tagging.CacheManager`1.ItemLoaded">
+            <summary>
+            當SyncAllBackground完成時
+            </summary>
+        </member>
+        <member name="E:Tagging.CacheManager`1.ItemUpdated">
+            <summary>
+            當快取資料變更時
+            </summary>
+        </member>
+        <member name="P:Tagging.CacheManager`1.Loaded">
+            <summary>
+            取得是否已經載入(SyncAllBackground)
+            </summary>
+        </member>
+        <member name="T:Tagging.CacheManager`1.CacheItemCollection">
+            <summary>
+            快取資料的集合
+            </summary>
+        </member>
+        <member name="M:Tagging.CacheManager`1.CacheItemCollection.ContainsKey(System.String)">
+            <summary>
+            查尋是否已快取此鍵值的項目
+            </summary>
+            <param name="key">要查尋的鍵值</param>
+            <returns>是否已在快取中</returns>
+        </member>
+        <member name="M:Tagging.CacheManager`1.CacheItemCollection.ContainsValue(`0)">
+            <summary>
+            查尋是否快取此項目
+            </summary>
+            <param name="value">要查尋的項目</param>
+            <returns>是否在快取資料中</returns>
+        </member>
+        <member name="M:Tagging.CacheManager`1.CacheItemCollection.GetEnumerator">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Tagging.CacheManager`1.CacheItemCollection.Item(System.String)">
+            <summary>
+            取得指定索引的項目，若指定的鍵值不存在則會先嚐試進行查尋
+            </summary>
+            <param name="ID">取得項目的鍵值</param>
+            <returns>該鍵值的項目，若傳入鍵值沒有對應項目則傳回default(T)</returns>
+        </member>
+        <member name="P:Tagging.CacheManager`1.CacheItemCollection.Count">
+            <summary>
+            取得項目總數
+            </summary>
+        </member>
+        <member name="P:Tagging.CacheManager`1.CacheItemCollection.Values">
+            <summary>
+            取得包含的值
+            </summary>
+        </member>
+        <member name="P:Tagging.CacheManager`1.CacheItemCollection.Keys">
+            <summary>
+            取得包含的索引鍵
+            </summary>
+        </member>
+        <member name="M:Tagging.TagConfigRecordCache.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Tagging.TagConfigRecordCache.WaitInitializeComplete">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Tagging.TagConfigRecordCache.WaitLazySyncComplete">
+            <summary>
+            等待 TagConfig 延遲工作執行完成。
+            </summary>
+        </member>
+        <member name="M:Tagging.TagConfigRecordCache.GetAllData">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Tagging.TagConfigRecordCache.GetData(System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+            
+            </summary>
+            <param name="primaryKeys"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Tagging.TagConfigRecordCache.GetByCategory(K12.Data.TagCategory)">
+            <summary>
+            依類別所屬類型取得類別資訊。
+            </summary>
+            <param name="category">TagCategory。</param>
+            <returns></returns>
+        </member>
+        <member name="E:Tagging.TagConfigRecordCache.K12ItemUpdated">
+            <summary>
+            當 K12 的項目變更事件發生時(包含 Insert、Update、Delete)。
+            </summary>
+        </member>
+        <member name="T:Tagging.TaggingMenu`1">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:Tagging.TaggingMenu`1.#ctor(System.String[],System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="assignCodes">指定類別的權限代碼。</param>
+            <param name="manageCodes">管理類別的權限代碼。</param>
+        </member>
+        <member name="P:Tagging.TaggingMenu`1.AssignCodes">
+            <summary>
+            指定類別的權限代碼。
+            </summary>
+        </member>
+        <member name="P:Tagging.TaggingMenu`1.ManageCodes">
+            <summary>
+            管理類別的權限代碼。
+            </summary>
+        </member>
+        <member name="P:Tagging.TaggingMenu`1.NewTagRecord">
+            <summary>
+            建立新的 TagRecord。(EntityID,TagConfigID)。
+            </summary>
+        </member>
+        <member name="P:Tagging.TaggingMenu`1.OpenManagerDelegate">
+            <summary>
+            開啟 Tag 管理畫面。
+            </summary>
+        </member>
+        <member name="T:Tagging.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Tagging.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Tagging.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:Tagging.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Tagging.Program.Main">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Tagging.Program.Reload(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="entityName"></param>
+        </member>
+        <member name="F:Tagging.TaggingBar.GetTagsDelegate">
+            <summary>
+            取得某個 PrimaryKey 的 Tag 清單。
+            </summary>
+        </member>
+        <member name="M:Tagging.TaggingBar.AverageItemsSzie">
+            <summary>
+            計算 Tag 的大小，使其剛好填滿 Tag Panel。
+            </summary>
+        </member>
+        <member name="F:Tagging.TaggingBar.components">
+            <summary> 
+            設計工具所需的變數。
+            </summary>
+        </member>
+        <member name="M:Tagging.TaggingBar.Dispose(System.Boolean)">
+            <summary> 
+            清除任何使用中的資源。
+            </summary>
+            <param name="disposing">如果應該處置 Managed 資源則為 true，否則為 false。</param>
+        </member>
+        <member name="M:Tagging.TaggingBar.InitializeComponent">
+            <summary> 
+            此為設計工具支援所需的方法 - 請勿使用程式碼編輯器
+            修改這個方法的內容。
+            </summary>
+        </member>
+        <member name="T:Tagging.TagForm">
+            <summary>
+            管理 Tag 的表單(學生、班級、教師、課程共用的 Parent)。
+            </summary>
+        </member>
+        <member name="M:Tagging.TagForm.RefreshTagData">
+            <summary>
+            重新讀取 Tag 資料，會自動呼叫 RefreshPrefixList、RefreshTagNameList。
+            </summary>
+        </member>
+        <member name="F:Tagging.TagForm.components">
+            <summary>
+            設計工具所需的變數。
+            </summary>
+        </member>
+        <member name="M:Tagging.TagForm.Dispose(System.Boolean)">
+            <summary>
+            清除任何使用中的資源。
+            </summary>
+            <param name="disposing">如果應該公開 Managed 資源則為 true，否則為 false。</param>
+        </member>
+        <member name="M:Tagging.TagForm.InitializeComponent">
+             <summary>
+             此為設計工具支援所需的方法 - 請勿使用程式碼編輯器修改這個方法的內容。
+            
+             </summary>
+        </member>
+        <member name="P:Tagging.TagForm.CurrentSelectedTag">
+            <summary>
+            取得畫面上使用者所選擇的 Tag 資料。
+            </summary>
+        </member>
+        <member name="P:Tagging.TagForm.CurrentSelectedName">
+            <summary>
+            目前選擇到的 Tag 全名。
+            </summary>
+        </member>
+        <member name="P:Tagging.TagForm.CounterService">
+            <summary>
+            計算使用次數的服務名稱。
+            </summary>
+        </member>
+        <member name="P:Tagging.NavViewNode.SharedKeysMap">
+            <summary>
+            同一組(同一個 NavView 下面的所有 Node) Node 之間共用的對照表。
+            </summary>
+        </member>
+        <member name="P:Tagging.NavViewNode.SortedNames">
+            <summary>
+            名稱清單。
+            </summary>
+        </member>
+        <member name="P:Tagging.NavViewNode.ViewNode">
+            <summary>
+            實際的 Node。
+            </summary>
+        </member>
+        <member name="T:Tagging.TaggingView`1">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Tagging.TaggingView`1.components">
+            <summary> 
+            設計工具所需的變數。
+            </summary>
+        </member>
+        <member name="M:Tagging.TaggingView`1.Dispose(System.Boolean)">
+            <summary> 
+            清除任何使用中的資源。
+            </summary>
+            <param name="disposing">如果應該處置 Managed 資源則為 true，否則為 false。</param>
+        </member>
+        <member name="M:Tagging.TaggingView`1.InitializeComponent">
+             <summary> 
+             此為設計工具支援所需的方法 - 請勿使用程式碼編輯器修改這個方法的內容。
+            
+             </summary>
+        </member>
+        <member name="F:Tagging.TaggingView`1.TaskPadding">
+            <summary>
+            是否有工作排程中。
+            </summary>
+        </member>
+        <member name="P:Tagging.TaggingView`1.ReloadPadding">
+            <summary>
+            是否有快取要重新整理。
+            </summary>
+        </member>
+        <member name="P:Tagging.TaggingView`1.Records">
+            <summary>
+            目前要被處理的資料。
+            </summary>
+        </member>
+        <member name="T:Tagging.ItemUpdatedEventArgs">
+            <summary>
+            提供 ItemUpdated事件的資料
+            </summary>
+        </member>
+        <member name="M:Tagging.ItemUpdatedEventArgs.#ctor(System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+            
+            </summary>
+            <param name="primaryKeys"></param>
+        </member>
+        <member name="P:Tagging.ItemUpdatedEventArgs.PrimaryKeys">
+            <summary>
+            取得被更新資料的鍵值清單
+            </summary>
+        </member>
+        <member name="F:Tagging.TagEditor.components">
+            <summary>
+            設計工具所需的變數。
+            </summary>
+        </member>
+        <member name="M:Tagging.TagEditor.Dispose(System.Boolean)">
+            <summary>
+            清除任何使用中的資源。
+            </summary>
+            <param name="disposing">如果應該公開 Managed 資源則為 true，否則為 false。</param>
+        </member>
+        <member name="M:Tagging.TagEditor.InitializeComponent">
+             <summary>
+             此為設計工具支援所需的方法 - 請勿使用程式碼編輯器修改這個方法的內容。
+            
+             </summary>
+        </member>
+        <member name="T:Tagging.TagCache">
+            <summary>
+            快取所有 Tag 相關資料，內容自動與 K12.Data 同步。
+            </summary>
+        </member>
+        <member name="P:Tagging.TagCache.TagConfig">
+            <summary>
+            提供 TagConfig 快取，不分類型(Category)。如果只需要特定類型，請使用 GetByCategory() 方法。
+            </summary>
+        </member>
+        <member name="P:Tagging.TagCache.StudentTag">
+            <summary>
+            提供 Student 的 Tag 快取。
+            </summary>
+        </member>
+        <member name="P:Tagging.TagCache.ClassTag">
+            <summary>
+            提供 Class 的 Tag 快取。
+            </summary>
+        </member>
+        <member name="P:Tagging.TagCache.TeacherTag">
+            <summary>
+            提供 Teacher 的 Tag 快取。
+            </summary>
+        </member>
+        <member name="P:Tagging.TagCache.CourseTag">
+            <summary>
+            提供 Course 的 Tag 快取。
+            </summary>
+        </member>
+        <member name="T:Tagging._TagForm.PResource">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Tagging._TagForm.PResource.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Tagging._TagForm.PResource.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:Tagging.EntityTagRecordCache`1">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Tagging.EntityTagRecordCache`1.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Tagging.EntityTagRecordCache`1.WaitInitializeComplete">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Tagging.EntityTagRecordCache`1.WaitLazySyncComplete">
+            <summary>
+            等待 TagConfig 延遲工作執行完成。
+            </summary>
+        </member>
+        <member name="F:Tagging.EntityTagRecordCache`1.GeneralTagIDEntityIDMap">
+            <summary>
+            GeneralTagID -> EntityID 對照表。
+            </summary>
+        </member>
+        <member name="M:Tagging.EntityTagRecordCache`1.GetAllData">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Tagging.EntityTagRecordCache`1.GetData(System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+            
+            </summary>
+            <param name="primaryKeys"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Tagging.EntityTagRecordCache`1.GetByEntityIDs(System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+            
+            </summary>
+            <param name="idList"></param>
+            <returns></returns>
+        </member>
+        <member name="E:Tagging.EntityTagRecordCache`1.K12ItemUpdated">
+            <summary>
+            當 K12 的項目變更事件發生時(包含 Insert、Update、Delete)。
+            </summary>
+        </member>
+    </members>
+</doc>

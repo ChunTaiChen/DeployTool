@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependency>
+  <Assembly FullName="KaoHsiung.ClassExamScoreAvgComparison, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null">
+    <Reference FullName="FISCA.Presentation, Version=1.1.0.15, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Data, Version=1.4.0.8, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Evaluation, Version=1.0.0.30, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
+    <Reference FullName="KaoHsiung.JHEvaluation.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHEvaluation.ScoreCalculation, Version=1.0.0.15, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Data, Version=1.3.8.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Data, Version=1.8.0.2, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Aspose.Cells, Version=4.3.0.0, Culture=neutral, PublicKeyToken=9a40d5a4b59e5256" />
+    <Reference FullName="FISCA.LogAgent, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Presentation, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA, Version=2.1.2.10, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Framework, Version=1.0.0.10, Culture=neutral, PublicKeyToken=null" />
+  </Assembly>
+  <Assembly FullName="KaoHsiung.ClassExamScoreReportV2, Version=1.0.0.9, Culture=neutral, PublicKeyToken=null">
+    <Reference FullName="FISCA.Presentation, Version=1.1.0.16, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Campus, Version=2.0.0.8, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Data, Version=1.4.0.8, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
+    <Reference FullName="Aspose.Cells, Version=4.3.0.0, Culture=neutral, PublicKeyToken=9a40d5a4b59e5256" />
+    <Reference FullName="KaoHsiung.JHEvaluation.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Campus.Report, Version=1.0.0.11, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Data, Version=1.8.0.2, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHEvaluation.ScoreCalculation, Version=1.0.0.15, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Evaluation, Version=1.0.0.31, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Data, Version=1.3.8.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Data, Version=1.4.0.3, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Presentation, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Framework, Version=1.0.0.10, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+  </Assembly>
+  <Assembly FullName="KaoHsiung.ExportCourseScore, Version=1.0.0.9, Culture=neutral, PublicKeyToken=null">
+    <Reference FullName="K12.Data, Version=1.9.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Aspose.Cells, Version=4.3.0.0, Culture=neutral, PublicKeyToken=9a40d5a4b59e5256" />
+    <Reference FullName="FISCA.Presentation, Version=1.1.0.16, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA, Version=2.1.3.5, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Presentation, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Permission, Version=1.1.0.11, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+  </Assembly>
+  <Assembly FullName="KaoHsiung.ExportCourseScoreDiff, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <Reference FullName="FISCA.Presentation, Version=1.1.0.16, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
+    <Reference FullName="K12.Data, Version=1.9.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Aspose.Cells, Version=4.3.0.0, Culture=neutral, PublicKeyToken=9a40d5a4b59e5256" />
+    <Reference FullName="FISCA, Version=2.1.3.5, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Permission, Version=1.1.0.11, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+  </Assembly>
+  <Assembly FullName="KaoHsiung.JHEvaluation.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null">
+    <Reference FullName="JHSchool.Data, Version=1.3.8.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Data, Version=1.4.0.3, Culture=neutral, PublicKeyToken=null" />
+  </Assembly>
+  <Assembly FullName="KaoHsiung.JHEvaluation, Version=1.0.0.21, Culture=neutral, PublicKeyToken=null">
+    <Reference FullName="FISCA.Presentation, Version=1.1.0.15, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="SmartSchool.API.PlugIn, Version=0.0.0.3, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
+    <Reference FullName="Framework, Version=1.0.0.10, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Data, Version=1.4.0.8, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Data, Version=1.9.0.1, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool, Version=1.0.2.23, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Evaluation, Version=1.0.0.33, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="KaoHsiung.JHEvaluation.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool, Version=1.0.2.20, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Data, Version=1.3.8.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Campus.Configuration, Version=1.0.0.5, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Aspose.Cells, Version=4.3.0.0, Culture=neutral, PublicKeyToken=9a40d5a4b59e5256" />
+    <Reference FullName="FISCA.LogAgent, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Data, Version=1.4.0.8, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA, Version=2.1.1.22, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Presentation, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Presentation, Version=1.0.2.9, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Affair, Version=1.0.0.5, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.SF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+  </Assembly>
+  <Assembly FullName="KaoHsiung.MidTermTransferReport, Version=1.0.0.14, Culture=neutral, PublicKeyToken=null">
+    <Reference FullName="FISCA.Presentation, Version=1.1.0.16, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
+    <Reference FullName="Aspose.Words, Version=4.4.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56" />
+    <Reference FullName="JHSchool.Data, Version=1.4.0.8, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Evaluation, Version=1.0.0.30, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="KaoHsiung.JHEvaluation.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Framework, Version=1.0.0.10, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Data, Version=1.8.0.2, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Presentation, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Campus.Report, Version=1.0.0.11, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.LogAgent, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Data, Version=1.3.8.0, Culture=neutral, PublicKeyToken=null" />
+  </Assembly>
+  <Assembly FullName="KaoHsiung.ReaderScoreImport, Version=1.0.0.11, Culture=neutral, PublicKeyToken=null">
+    <Reference FullName="FISCA.Presentation, Version=1.0.2.9, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Data, Version=1.3.8.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.UDT, Version=1.0.2.2, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
+    <Reference FullName="K12.Data, Version=1.4.0.3, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="KaoHsiung.JHEvaluation.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA, Version=1.9.1.9, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Framework, Version=1.0.0.10, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="SmartSchool.ErrorReporting, Version=1.0.2.3, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Presentation, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Aspose.Cells, Version=4.3.0.0, Culture=neutral, PublicKeyToken=9a40d5a4b59e5256" />
+  </Assembly>
+  <Assembly FullName="KaoHsiung.StudentExamScoreReport, Version=1.0.0.35, Culture=neutral, PublicKeyToken=null">
+    <Reference FullName="FISCA.Presentation, Version=1.1.0.15, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Aspose.Words, Version=14.1.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56" />
+    <Reference FullName="JHSchool.Data, Version=1.4.0.8, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Data, Version=1.8.0.2, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Campus.Report, Version=1.0.0.11, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
+    <Reference FullName="Framework, Version=1.0.0.10, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="KaoHsiung.JHEvaluation.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Evaluation, Version=1.0.0.30, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Presentation, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA, Version=2.1.3.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Data, Version=1.3.8.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+  </Assembly>
+  <Assembly FullName="KaoHsiung.StudentRecordReport, Version=1.0.0.20, Culture=neutral, PublicKeyToken=null">
+    <Reference FullName="FISCA.Presentation, Version=1.1.0.16, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.UDT, Version=1.0.2.2, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Campus.Report, Version=1.0.0.11, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
+    <Reference FullName="Aspose.Words, Version=4.4.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56" />
+    <Reference FullName="JHSchool.Data, Version=1.4.0.8, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Data, Version=1.9.0.1, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Evaluation, Version=1.0.0.33, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Behavior, Version=1.0.14.2, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA, Version=2.1.3.12, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Presentation, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Framework, Version=1.0.0.10, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Data, Version=1.4.0.8, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Data, Version=1.3.8.0, Culture=neutral, PublicKeyToken=null" />
+  </Assembly>
+  <Assembly FullName="KaoHsiung.TransferReport, Version=1.0.0.13, Culture=neutral, PublicKeyToken=null">
+    <Reference FullName="FISCA.Presentation, Version=1.1.0.16, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
+    <Reference FullName="Aspose.Words, Version=4.4.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56" />
+    <Reference FullName="JHSchool.Behavior, Version=1.0.13.18, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Data, Version=1.9.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Data, Version=1.4.0.8, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Presentation, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Data, Version=1.3.8.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Framework, Version=1.0.0.10, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA, Version=2.1.3.1, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="JHSchool.Evaluation, Version=1.0.0.30, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.LogAgent, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Data, Version=1.4.0.8, Culture=neutral, PublicKeyToken=null" />
+  </Assembly>
+</Dependency>

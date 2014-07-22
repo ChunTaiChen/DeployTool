@@ -1,0 +1,9 @@
+﻿<Release Version="2.0.1.8">
+  <Files>
+    <File Name="JHSchool.Evaluation.dll" Folder="" Size="1847296" Digest="IW0suqTdsrgPd3AIUflMZrM51i4=">
+      <AssemblyName>JHSchool.Evaluation, Version=1.0.3.20, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.3.20</Version>
+    </File>
+    <File Name="JHSchool.Evaluation.pdb" Folder="" Size="2551296" Digest="I+9Ai9JfDDeJazfzD7kdVsmTy5A=" />
+  </Files>
+</Release>

@@ -1,0 +1,74 @@
+﻿<Release Version="2.0.3.8">
+  <Files>
+    <File Name="JHEvaluation.AssignmentExamManager.dll" Folder="" Size="53760" Digest="rD/vyLYwscgfrXcMo9bLTCN0QPw=">
+      <AssemblyName>JHEvaluation.AssignmentExamManager, Version=1.0.2.5, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.2.5</Version>
+    </File>
+    <File Name="JHEvaluation.AssignmentExamManager.pdb" Folder="" Size="81408" Digest="i7ofpbIukx2AZXuhduLCPy2Zw9E=" />
+    <File Name="JHEvaluation.AssignmentScore.dll" Folder="" Size="86016" Digest="RtAQNrN6+jH4Bt3JxksEBKBD2us=">
+      <AssemblyName>JHEvaluation.AssignmentScore, Version=1.0.2.7, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.2.7</Version>
+    </File>
+    <File Name="JHEvaluation.AssignmentScore.pdb" Folder="" Size="81408" Digest="ild4Ynm7Xpp62n4X8UqqCKXKKfQ=" />
+    <File Name="JHEvaluation.AttendCourseDuplReport.dll" Folder="" Size="50688" Digest="ILmqMSqnDTO6ZXZD9pp3F5Ug3eg=">
+      <AssemblyName>JHEvaluation.AttendCourseDuplReport, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+    <File Name="JHEvaluation.AttendCourseDuplReport.pdb" Folder="" Size="54784" Digest="cnifma3fumB2TSCQ9V7Clv4o/SA=" />
+    <File Name="JHEvaluation.ClassSemesterScoreAvgComparison.dll" Folder="" Size="169984" Digest="nKsWg0RG7wO5rBpbVc/gN1MgqUk=">
+      <AssemblyName>JHEvaluation.ClassSemesterScoreAvgComparison, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.1</Version>
+    </File>
+    <File Name="JHEvaluation.ClassSemesterScoreAvgComparison.pdb" Folder="" Size="60928" Digest="FVIxC4zT40EMHJRinet+WD2mqEw=" />
+    <File Name="JHEvaluation.ClassSemesterScoreReport.dll" Folder="" Size="177152" Digest="Zow5+l5GgbbnMcb/J06GvusCmWE=">
+      <AssemblyName>JHEvaluation.ClassSemesterScoreReport, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.6</Version>
+    </File>
+    <File Name="JHEvaluation.ClassSemesterScoreReport.pdb" Folder="" Size="122368" Digest="dExLbDUWKiENhmEiTfYa/7K4zR4=" />
+    <File Name="JHEvaluation.ExamScoreCopy.dll" Folder="" Size="59904" Digest="2g7WKg0B9WZ5fwyuFHG+pPzeHmE=">
+      <AssemblyName>JHEvaluation.ExamScoreCopy, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.1</Version>
+    </File>
+    <File Name="JHEvaluation.ExamScoreCopy.pdb" Folder="" Size="99840" Digest="C1RF7Z2W98iQ1+5Rs3+U+vQugek=" />
+    <File Name="JHEvaluation.Rating.dll" Folder="" Size="107008" Digest="jAwVaU/aGJz1EUSPK79Eu1Y8ZVo=">
+      <AssemblyName>JHEvaluation.Rating, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.3</Version>
+    </File>
+    <File Name="JHEvaluation.Rating.pdb" Folder="" Size="181760" Digest="qsjCMoo0o/J+jUzpFOEnD907A20=" />
+    <File Name="JHEvaluation.ScoreCalculation.dll" Folder="" Size="162816" Digest="DSmghw/WzOga5mLpr2dyWEhlNvU=">
+      <AssemblyName>JHEvaluation.ScoreCalculation, Version=1.0.0.18, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.18</Version>
+    </File>
+    <File Name="JHEvaluation.ScoreCalculation.pdb" Folder="" Size="341504" Digest="GfM8tK1TckA3XnHxugFGAxAgdDA=" />
+    <File Name="JHEvaluation.SemesterScoreContentItem.dll" Folder="" Size="68096" Digest="onXvE8uRXBzFweCWmjqqVIA1Xzw=">
+      <AssemblyName>JHEvaluation.SemesterScoreContentItem, Version=1.0.0.7, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.7</Version>
+    </File>
+    <File Name="JHEvaluation.SemesterScoreContentItem.pdb" Folder="" Size="130560" Digest="GvgntfaMUimQ/i8H2m5r/8OVqi0=" />
+    <File Name="JHEvaluation.StudentScoreSummaryReport.dll" Folder="" Size="237568" Digest="MV/BA3kqz/PncuCKRb6bm5Jc3Hs=">
+      <AssemblyName>JHEvaluation.StudentScoreSummaryReport, Version=1.0.0.31, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.31</Version>
+    </File>
+    <File Name="JHEvaluation.StudentScoreSummaryReport.pdb" Folder="" Size="177664" Digest="JxmwZBt9j9/lpZZOTtxqnNjJEyg=" />
+    <File Name="JHEvaluation.StudentSemesterScoreNotification.dll" Folder="" Size="195584" Digest="Gd6zNgp1VxjONZ15WIsyi2Ilr6A=">
+      <AssemblyName>JHEvaluation.StudentSemesterScoreNotification, Version=1.0.0.19, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.19</Version>
+    </File>
+    <File Name="JHEvaluation.StudentSemesterScoreNotification.pdb" Folder="" Size="132608" Digest="jMWwIuYNZCR/xCOUP7iy9ATiOhg=" />
+    <File Name="JHEvaluation.StudentSemesterScoreReport.dll" Folder="" Size="206848" Digest="IUrYyaegzYGl7PXxcepGhH/mE/8=">
+      <AssemblyName>JHEvaluation.StudentSemesterScoreReport, Version=1.0.0.19, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.19</Version>
+    </File>
+    <File Name="JHEvaluation.StudentSemesterScoreReport.pdb" Folder="" Size="114176" Digest="rcQb8ApjJsT9gP+A3MVrJUc32A8=" />
+    <File Name="JHEvaluation.WuZhuanRegisterScoreImport.dll" Folder="" Size="54784" Digest="8cg0JSZG6q/ZCySKyK5joDkOT1M=">
+      <AssemblyName>JHEvaluation.WuZhuanRegisterScoreImport, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.2</Version>
+    </File>
+    <File Name="JHEvaluation.WuZhuanRegisterScoreImport.pdb" Folder="" Size="40448" Digest="0DWk0S5bfF8Iw/ICAe9hx7G6Jfs=" />
+    <File Name="JointAdmissionModule.dll" Folder="" Size="788992" Digest="Gz6vsXu6SALeP/+TWfWzssGI4Fw=">
+      <AssemblyName>JointAdmissionModule, Version=1.0.9.9, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.9.9</Version>
+    </File>
+    <File Name="JointAdmissionModule.pdb" Folder="" Size="568832" Digest="W7ax3av9w4k+Bryae3IN22xwXSs=" />
+  </Files>
+</Release>

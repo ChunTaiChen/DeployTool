@@ -1,0 +1,60 @@
+﻿<Release Version="2.0.3.14">
+  <Files>
+    <File Name="KaoHsiung.ClassExamScoreAvgComparison.dll" Folder="" Size="188416" Digest="bEfV78ilkgyIKRlj+jNMCXOcDmQ=">
+      <AssemblyName>KaoHsiung.ClassExamScoreAvgComparison, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.6</Version>
+    </File>
+    <File Name="KaoHsiung.ClassExamScoreAvgComparison.pdb" Folder="" Size="91648" Digest="U37EuRRmgeJkYJ5ZJmrb91tNY1w=" />
+    <File Name="KaoHsiung.ClassExamScoreReportV2.dll" Folder="" Size="178176" Digest="iDu/SBGPldOBIIm7GUBh5Pog2Fs=">
+      <AssemblyName>KaoHsiung.ClassExamScoreReportV2, Version=1.0.0.9, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.9</Version>
+    </File>
+    <File Name="KaoHsiung.ClassExamScoreReportV2.pdb" Folder="" Size="138752" Digest="ujO729XTabFgpoNGaFRziIUPr3I=" />
+    <File Name="KaoHsiung.ExportCourseScore.dll" Folder="" Size="47616" Digest="riiakDN7Q0FbDoN9LPxVxCPzp+E=">
+      <AssemblyName>KaoHsiung.ExportCourseScore, Version=1.0.0.9, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.9</Version>
+    </File>
+    <File Name="KaoHsiung.ExportCourseScore.pdb" Folder="" Size="40448" Digest="d0AubGF6mkgXtyHzbSBWNcbowKs=" />
+    <File Name="KaoHsiung.ExportCourseScoreDiff.dll" Folder="" Size="43520" Digest="5jZH2wMVD+AFUDjSHj+XGwJUqes=">
+      <AssemblyName>KaoHsiung.ExportCourseScoreDiff, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+    <File Name="KaoHsiung.ExportCourseScoreDiff.pdb" Folder="" Size="42496" Digest="NWJVgV0/aT16Z1yy/4n8SlE3ZRg=" />
+    <File Name="KaoHsiung.JHEvaluation.Data.dll" Folder="" Size="11776" Digest="8Im3P+aPyX9lRCvW93+TdWhgmvo=">
+      <AssemblyName>KaoHsiung.JHEvaluation.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.3</Version>
+    </File>
+    <File Name="KaoHsiung.JHEvaluation.Data.pdb" Folder="" Size="36352" Digest="p4igC3D3zfzKEyPMCK+0conI6QM=" />
+    <File Name="KaoHsiung.JHEvaluation.Data.xml" Folder="" Size="6217" Digest="ptABohSjaMU/KUdpDxfIp+xn7W8=" />
+    <File Name="KaoHsiung.JHEvaluation.dll" Folder="" Size="239104" Digest="fkOlMFDegswpM5Nkhj70SOfLsXU=">
+      <AssemblyName>KaoHsiung.JHEvaluation, Version=1.0.0.21, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.21</Version>
+    </File>
+    <File Name="KaoHsiung.JHEvaluation.pdb" Folder="" Size="353792" Digest="LnkW+0vtjp1clwXSmwsNcZMzwgE=" />
+    <File Name="KaoHsiung.MidTermTransferReport.dll" Folder="" Size="122880" Digest="g1jcMU2pvlE0eYfZaqPzOD7aKHE=">
+      <AssemblyName>KaoHsiung.MidTermTransferReport, Version=1.0.0.14, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.14</Version>
+    </File>
+    <File Name="KaoHsiung.MidTermTransferReport.pdb" Folder="" Size="124416" Digest="OE+4y+1XWDofz2w4PJOYcFykPSg=" />
+    <File Name="KaoHsiung.ReaderScoreImport.dll" Folder="" Size="81920" Digest="LsciZxBnZ9U00x6po6n34VpipYY=">
+      <AssemblyName>KaoHsiung.ReaderScoreImport, Version=1.0.0.11, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.11</Version>
+    </File>
+    <File Name="KaoHsiung.ReaderScoreImport.pdb" Folder="" Size="181760" Digest="Im4DFkB33ET4gEEeSNh8G1+qiC0=" />
+    <File Name="KaoHsiung.StudentExamScoreReport.dll" Folder="" Size="160256" Digest="1D+H/vO9HKvuV55bTrjct7YaIsE=">
+      <AssemblyName>KaoHsiung.StudentExamScoreReport, Version=1.0.0.35, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.35</Version>
+    </File>
+    <File Name="KaoHsiung.StudentExamScoreReport.pdb" Folder="" Size="161280" Digest="d2wQT1qh5vH+vmwURnX2DaaTiy4=" />
+    <File Name="KaoHsiung.StudentRecordReport.dll" Folder="" Size="168448" Digest="enCEXulnRTrFONUSFbPwp7tRPko=">
+      <AssemblyName>KaoHsiung.StudentRecordReport, Version=1.0.0.20, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.20</Version>
+    </File>
+    <File Name="KaoHsiung.StudentRecordReport.pdb" Folder="" Size="142848" Digest="4/cf1QCUwmTR0628cgHTMqOz5FQ=" />
+    <File Name="KaoHsiung.TransferReport.dll" Folder="" Size="138240" Digest="Ok67PZmAhzRVna3owYAQmOei9JA=">
+      <AssemblyName>KaoHsiung.TransferReport, Version=1.0.0.13, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.13</Version>
+    </File>
+    <File Name="KaoHsiung.TransferReport.pdb" Folder="" Size="128512" Digest="EhJmJ0pAlOMdRzLkm6BsCVvRvpQ=" />
+  </Files>
+</Release>

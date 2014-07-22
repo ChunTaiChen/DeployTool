@@ -1,0 +1,9 @@
+﻿<Release Version="0.0.0.2">
+  <Files>
+    <File Name="K12.Sports.FitnessImportExport.dll" Folder="" Size="108544" Digest="5jPSrHo0ROp0ECmbEdVLcSl1mvk=">
+      <AssemblyName>K12.Sports.FitnessImportExport, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.6</Version>
+    </File>
+    <File Name="K12.Sports.FitnessImportExport.pdb" Folder="" Size="124416" Digest="LP7BrtlHJEE4V2P03RSYBWWkCcI=" />
+  </Files>
+</Release>

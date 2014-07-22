@@ -1,0 +1,19 @@
+﻿<Release Version="0.0.1.9">
+  <Files>
+    <File Name="KaoHsiungExamScore_JH.dll" Folder="" Size="836608" Digest="NFxWqylL12WIC+cxQTMFm3tRMg8=">
+      <AssemblyName>KaoHsiungExamScore_JH, Version=1.0.0.13, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.13</Version>
+    </File>
+    <File Name="KaoHsiungExamScore_JH.pdb" Folder="" Size="151040" Digest="mXeuEG6+C0v3zJiaVzeI/WCFqqQ=" />
+    <File Name="KH.DataExchange.103.dll" Folder="" Size="228352" Digest="usHxsnPQE83H7OjG59OZh0jYsv4=">
+      <AssemblyName>KH.DataExchange.103, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.6</Version>
+    </File>
+    <File Name="KH.DataExchange.103.pdb" Folder="" Size="22016" Digest="jxXTJlCCN9WleGHH4B4ZRf+2jhs=" />
+    <File Name="KH_StudentScoreSummaryReport.dll" Folder="" Size="201728" Digest="TSogkpPqd555+I2LF9KcytizdWI=">
+      <AssemblyName>KH_StudentScoreSummaryReport, Version=1.0.0.4, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.4</Version>
+    </File>
+    <File Name="KH_StudentScoreSummaryReport.pdb" Folder="" Size="269824" Digest="UmW1Lx8MtZBEmcrZVlB5gIBuAXM=" />
+  </Files>
+</Release>
