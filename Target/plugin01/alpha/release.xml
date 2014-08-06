@@ -1,0 +1,8 @@
+﻿<Release Version="0.0.0.2">
+  <Files>
+    <File Name="plug01.dll" Folder="" Size="49152" Digest="cCvVwws8MzjuHAmOFWCzYC2Xq9c=">
+      <AssemblyName>學時制留級與補考名單, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+  </Files>
+</Release>

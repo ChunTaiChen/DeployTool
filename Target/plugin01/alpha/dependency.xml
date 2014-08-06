@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependency>
+  <Assembly FullName="學時制留級與補考名單, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <Reference FullName="SmartSchool.Common.DotNetBar, Version=1.0.0.4, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="SmartSchool.Customization.Data, Version=1.3.0.1, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="DevComponents.DotNetBar2, Version=7.2.0.6, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
+    <Reference FullName="SmartSchool.Customization.PlugIn, Version=1.1.4.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Aspose.Cells, Version=4.3.0.0, Culture=neutral, PublicKeyToken=9a40d5a4b59e5256" />
+  </Assembly>
+</Dependency>

@@ -1,4 +1,4 @@
-﻿<Release Version="0.0.1.13">
+﻿<Release Version="0.0.1.14">
   <Files>
     <File Name="K12.Report.LeaveInfoImport.dll" Folder="" Size="23040" Digest="Ffs4SX+eIIkfqR0EyX0n2d+aU/0=">
       <AssemblyName>K12.Report.LeaveInfoImport, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null</AssemblyName>
@@ -10,6 +10,11 @@
       <Version>1.0.0.6</Version>
     </File>
     <File Name="OfficialStudentRecord.pdb" Folder="" Size="48640" Digest="u42IhcFzYLlYiw9hyKuH/dp7LGI=" />
+    <File Name="SHClassUpgrade.dll" Folder="" Size="43008" Digest="D2ekFnJ/x2PR6kf0LCTylL82mFA=">
+      <AssemblyName>SHClassUpgrade, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+    <File Name="SHClassUpgrade.pdb" Folder="" Size="58880" Digest="4PxIO9f9bu3rEe3nxtt0aKj6zvw=" />
     <File Name="SHStudentCard.dll" Folder="" Size="119808" Digest="9MLmopL0/wRbtKX5WHb9B6LbmoA=">
       <AssemblyName>SHStudentCard, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null</AssemblyName>
       <Version>1.0.0.6</Version>

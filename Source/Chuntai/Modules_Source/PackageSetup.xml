@@ -53,4 +53,5 @@
   <App Title="和美高中成績報表" Description="" Output2="" Name="SH_hmjh_EvaluationScoreReport" ReplaceAllReleaseFromAlpha="true" />
   <App Title="國際部課程成績模組" Description="" Output2="" Name="CourseGradeB" ReplaceAllReleaseFromAlpha="true" />
   <App Title="高雄自動編班模組" Description="" Output2="" Name="KH_HighConcern" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="學時制留級與補考名單(外掛報表)" Description="" Output2="" Name="plugin01" ReplaceAllReleaseFromAlpha="true" />
 </Apps>

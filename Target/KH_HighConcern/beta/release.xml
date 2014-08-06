@@ -1,34 +1,39 @@
-﻿<Release Version="0.0.1.1">
+﻿<Release Version="0.0.1.8">
   <Files>
-    <File Name="ClassLock_KH.dll" Folder="" Size="29696" Digest="V2X2YODjNSxrY7WrkLLPeS5GHbU=">
-      <AssemblyName>ClassLock_KH, Version=1.0.0.5, Culture=neutral, PublicKeyToken=null</AssemblyName>
-      <Version>1.0.0.5</Version>
+    <File Name="ClassLock_KH.dll" Folder="" Size="31232" Digest="LnD497FYIApEfsX8aBrMtlCoB/Y=">
+      <AssemblyName>ClassLock_KH, Version=1.0.0.7, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.7</Version>
     </File>
-    <File Name="ClassLock_KH.pdb" Folder="" Size="42496" Digest="n9bdgQlNWxoci1LlsgUZZbRQbWs=" />
-    <File Name="KH_HighConcern.dll" Folder="" Size="30208" Digest="p0loK0SuRMuTPyFnVPrFABdE1qg=">
-      <AssemblyName>KH_HighConcern, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null</AssemblyName>
-      <Version>1.0.0.6</Version>
+    <File Name="ClassLock_KH.pdb" Folder="" Size="44544" Digest="tneZq/zXGDMEYxku+cHmfaVd7HI=" />
+    <File Name="KH_HighConcern.dll" Folder="" Size="30208" Digest="44rjsNBjKXGnV4I9F11bJPanplU=">
+      <AssemblyName>KH_HighConcern, Version=1.0.0.7, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.7</Version>
     </File>
-    <File Name="KH_HighConcern.pdb" Folder="" Size="52736" Digest="HkXuEA+7w0SadiaYtCbptp0656U=" />
-    <File Name="StudentClassItem_KH.dll" Folder="" Size="42496" Digest="fmep4WPB8BVFcWpivsD9dyT4OW0=">
-      <AssemblyName>StudentClassItem_KH, Version=1.0.0.5, Culture=neutral, PublicKeyToken=null</AssemblyName>
-      <Version>1.0.0.5</Version>
-    </File>
-    <File Name="StudentClassItem_KH.pdb" Folder="" Size="62976" Digest="5l1T4JOOv0oXD2+Xjz2nDOov2Ug=" />
-    <File Name="StudentImportWizard_KH.dll" Folder="" Size="196096" Digest="AofG30FJcNDDFlDmNl+8phlPCzQ=">
-      <AssemblyName>StudentImportWizard_KH, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+    <File Name="KH_HighConcern.pdb" Folder="" Size="52736" Digest="9CmtRj6/TBejw7V58nYQqx2/r60=" />
+    <File Name="KH_HighConcernCalc.dll" Folder="" Size="12800" Digest="Vxi5HP185kRvyAqXYFVcvRRlNAM=">
+      <AssemblyName>KH_HighConcernCalc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
       <Version>1.0.0.0</Version>
     </File>
-    <File Name="StudentImportWizard_KH.pdb" Folder="" Size="77312" Digest="atAQdEmfGS/G7s4j+g/VQdY042c=" />
-    <File Name="StudentTransferStudentBrief_KH.dll" Folder="" Size="128000" Digest="M4dvlPKFSOGMN/OkrjSOCvjcAXI=">
-      <AssemblyName>StudentTransferStudentBrief_KH, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
-      <Version>1.0.0.0</Version>
+    <File Name="KH_HighConcernCalc.pdb" Folder="" Size="19968" Digest="pMbXW/2nFcK3ZVrmbelbCkJ/xT0=" />
+    <File Name="StudentClassItem_KH.dll" Folder="" Size="56832" Digest="lUM7WCoN2A0vCFw+adgoZpHfNAg=">
+      <AssemblyName>StudentClassItem_KH, Version=1.0.0.10, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.10</Version>
     </File>
-    <File Name="StudentTransferStudentBrief_KH.pdb" Folder="" Size="56832" Digest="gn2OOX9ybcRMrLnFFEa9fcCENww=" />
-    <File Name="StudentTransStudBase_KH.dll" Folder="" Size="36864" Digest="m/SJVlErPRdflAK2gvVfKcnWy2w=">
+    <File Name="StudentClassItem_KH.pdb" Folder="" Size="83456" Digest="Ac3UNpT0ETqHG3it5oijmRKUT7k=" />
+    <File Name="StudentImportWizard_KH.dll" Folder="" Size="196096" Digest="NNKOtQEmWjTnfG6IN6e+Z0paPh0=">
+      <AssemblyName>StudentImportWizard_KH, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.2</Version>
+    </File>
+    <File Name="StudentImportWizard_KH.pdb" Folder="" Size="77312" Digest="Qoh9TcEoJLolsshjuvoqviBKUjI=" />
+    <File Name="StudentTransferStudentBrief_KH.dll" Folder="" Size="127488" Digest="1w794wbIbTOwpzPVm1y3tQRquAw=">
+      <AssemblyName>StudentTransferStudentBrief_KH, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.2</Version>
+    </File>
+    <File Name="StudentTransferStudentBrief_KH.pdb" Folder="" Size="56832" Digest="xfAjRmNT4U4shkyiR4z5NcRfxy0=" />
+    <File Name="StudentTransStudBase_KH.dll" Folder="" Size="36352" Digest="WKuTA/Eg1bf4iaju2FXCozbF8hk=">
       <AssemblyName>StudentTransStudBase_KH, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null</AssemblyName>
       <Version>1.0.0.2</Version>
     </File>
-    <File Name="StudentTransStudBase_KH.pdb" Folder="" Size="40448" Digest="U/MTBKyu6Oe3XLtscZCyQJnrWc4=" />
+    <File Name="StudentTransStudBase_KH.pdb" Folder="" Size="40448" Digest="plRAjnJvnW9flTehUGXFV8wsjb8=" />
   </Files>
 </Release>

@@ -28,6 +28,17 @@
     <Reference FullName="K12.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="FISCA.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
   </Assembly>
+  <Assembly FullName="SHClassUpgrade, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <Reference FullName="FISCA.Presentation, Version=1.1.0.19, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Data, Version=2.0.0.5, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
+    <Reference FullName="SmartSchool.Core.General, Version=1.0.8.14, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="SmartSchool.Core, Version=1.0.4.5, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.LogAgent, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA, Version=2.5.0.1, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Permission, Version=1.2.0.2, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+  </Assembly>
   <Assembly FullName="SHStudentCard, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null">
     <Reference FullName="FISCA.Presentation, Version=1.1.0.16, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
