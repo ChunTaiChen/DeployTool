@@ -1,0 +1,19 @@
+﻿<Release Version="0.0.1.0">
+  <Files>
+    <File Name="DesktopLib.dll" Folder="" Size="133632" Digest="u+NMlQwKk5SuOh/AIfk1KvSLhK4=">
+      <AssemblyName>DesktopLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+    <File Name="DesktopLib.pdb" Folder="" Size="308736" Digest="hLlS/j4t7C6P5lG9riRpF/i5WJg=" />
+    <File Name="KHJHCentralOffice.dll" Folder="" Size="605696" Digest="XpS21HtK/JBD7STOO6BTBaikAH0=">
+      <AssemblyName>KHJHCentralOffice, Version=1.0.2.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.2.0</Version>
+    </File>
+    <File Name="KHJHCentralOffice.pdb" Folder="" Size="364032" Digest="SxsD5X4jXuZjAmgm7YWvouxAEsg=" />
+    <File Name="KHJHLog.dll" Folder="" Size="251392" Digest="urxm9accFKsSKrocmbiKpy6sYE0=">
+      <AssemblyName>KHJHLog, Version=1.0.6.6, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.6.6</Version>
+    </File>
+    <File Name="KHJHLog.pdb" Folder="" Size="112128" Digest="gQs23brDwMtXwoXVqRmzgi/Rd5s=" />
+  </Files>
+</Release>

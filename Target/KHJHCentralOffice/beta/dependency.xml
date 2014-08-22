@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependency>
+  <Assembly FullName="DesktopLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <Reference FullName="FISCA.Presentation, Version=1.1.0.19, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Permission, Version=1.2.0.2, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="ActiproSoftware.SyntaxEditor.Net20, Version=4.0.262.0, Culture=neutral, PublicKeyToken=21a821480e210563" />
+    <Reference FullName="ActiproSoftware.SyntaxEditor.Addons.Web.Net20, Version=4.0.262.0, Culture=neutral, PublicKeyToken=21a821480e210563" />
+    <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
+    <Reference FullName="FISCA.DSAUtil, Version=3.9.0.10, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Authentication, Version=1.9.0.18, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA, Version=2.5.0.1, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference FullName="ActiproSoftware.Shared.Net20, Version=1.0.93.0, Culture=neutral, PublicKeyToken=36ff2196ab5654b9" />
+  </Assembly>
+  <Assembly FullName="KHJHCentralOffice, Version=1.0.2.0, Culture=neutral, PublicKeyToken=null">
+    <Reference FullName="FISCA.Presentation, Version=1.1.0.19, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Core, Version=1.0.1.5, Culture=neutral, PublicKeyToken=a269f410f9e2a287" />
+    <Reference FullName="DesktopLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.UDT, Version=1.0.2.2, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
+    <Reference FullName="Aspose.Words, Version=4.4.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56" />
+    <Reference FullName="Aspose.Cells, Version=4.3.0.0, Culture=neutral, PublicKeyToken=9a40d5a4b59e5256" />
+    <Reference FullName="FISCA.DSAClient, Version=1.0.1.16, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Permission, Version=1.2.0.2, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference FullName="FISCA.Authentication, Version=1.9.0.18, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA, Version=2.5.0.1, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="ActiproSoftware.SyntaxEditor.Net20, Version=4.0.262.0, Culture=neutral, PublicKeyToken=21a821480e210563" />
+    <Reference FullName="FISCA.DSAUtil, Version=3.9.0.10, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.DSAUtil, Version=3.2.21.7, Culture=neutral, PublicKeyToken=null" />
+  </Assembly>
+  <Assembly FullName="KHJHLog, Version=1.0.6.6, Culture=neutral, PublicKeyToken=null">
+    <Reference FullName="FISCA.Presentation, Version=1.1.0.19, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.UDT, Version=1.0.2.2, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
+    <Reference FullName="FISCA.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Campus.Configuration, Version=1.0.0.5, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.DSAClient, Version=1.0.1.16, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="Aspose.Cells, Version=4.3.0.0, Culture=neutral, PublicKeyToken=9a40d5a4b59e5256" />
+    <Reference FullName="Campus.Report, Version=1.0.0.11, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="KHJHCentralOffice, Version=1.0.2.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Authentication, Version=1.9.0.18, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Permission, Version=1.2.0.2, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA, Version=2.5.0.1, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.DSAUtil, Version=3.9.0.10, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.DSAUtil, Version=3.2.21.7, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.LogAgent, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null" />
+  </Assembly>
+</Dependency>

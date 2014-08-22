@@ -1,25 +1,30 @@
-﻿<Release Version="0.0.1.8">
+﻿<Release Version="0.0.1.12">
   <Files>
-    <File Name="ClassLock_KH.dll" Folder="" Size="31232" Digest="LnD497FYIApEfsX8aBrMtlCoB/Y=">
-      <AssemblyName>ClassLock_KH, Version=1.0.0.7, Culture=neutral, PublicKeyToken=null</AssemblyName>
-      <Version>1.0.0.7</Version>
+    <File Name="ClassLock_KH.dll" Folder="" Size="31232" Digest="TQuqQYGtGA/2G0wLngXJTnt+F04=">
+      <AssemblyName>ClassLock_KH, Version=1.0.0.8, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.8</Version>
     </File>
-    <File Name="ClassLock_KH.pdb" Folder="" Size="44544" Digest="tneZq/zXGDMEYxku+cHmfaVd7HI=" />
+    <File Name="ClassLock_KH.pdb" Folder="" Size="44544" Digest="EPnLK1swMzxTZGedJTMRdhnG7c8=" />
     <File Name="KH_HighConcern.dll" Folder="" Size="30208" Digest="44rjsNBjKXGnV4I9F11bJPanplU=">
       <AssemblyName>KH_HighConcern, Version=1.0.0.7, Culture=neutral, PublicKeyToken=null</AssemblyName>
       <Version>1.0.0.7</Version>
     </File>
     <File Name="KH_HighConcern.pdb" Folder="" Size="52736" Digest="9CmtRj6/TBejw7V58nYQqx2/r60=" />
-    <File Name="KH_HighConcernCalc.dll" Folder="" Size="12800" Digest="Vxi5HP185kRvyAqXYFVcvRRlNAM=">
-      <AssemblyName>KH_HighConcernCalc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+    <File Name="KH_HighConcernCalc.dll" Folder="" Size="13312" Digest="e7xUfvfl2BitZbt9HzrXpohYW60=">
+      <AssemblyName>KH_HighConcernCalc, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.3</Version>
+    </File>
+    <File Name="KH_HighConcernCalc.pdb" Folder="" Size="19968" Digest="NV9l0vYccjDEm+eyP3lp3UPm38w=" />
+    <File Name="StudentChangeStatus_KH.dll" Folder="" Size="22016" Digest="ZmZuQGXnP9MTuM9BsPzyIsPjNKU=">
+      <AssemblyName>StudentChangeStatus_KH, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
       <Version>1.0.0.0</Version>
     </File>
-    <File Name="KH_HighConcernCalc.pdb" Folder="" Size="19968" Digest="pMbXW/2nFcK3ZVrmbelbCkJ/xT0=" />
-    <File Name="StudentClassItem_KH.dll" Folder="" Size="56832" Digest="lUM7WCoN2A0vCFw+adgoZpHfNAg=">
-      <AssemblyName>StudentClassItem_KH, Version=1.0.0.10, Culture=neutral, PublicKeyToken=null</AssemblyName>
-      <Version>1.0.0.10</Version>
+    <File Name="StudentChangeStatus_KH.pdb" Folder="" Size="42496" Digest="HYfzYYx2WQMlzEtN6oSuvcOqp3Y=" />
+    <File Name="StudentClassItem_KH.dll" Folder="" Size="57344" Digest="bGL7YZfu/HaGsPgyGuwHu4sS/E0=">
+      <AssemblyName>StudentClassItem_KH, Version=1.0.0.13, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.13</Version>
     </File>
-    <File Name="StudentClassItem_KH.pdb" Folder="" Size="83456" Digest="Ac3UNpT0ETqHG3it5oijmRKUT7k=" />
+    <File Name="StudentClassItem_KH.pdb" Folder="" Size="83456" Digest="3cgZEVzA9sqETaYAYC95YZmjuP8=" />
     <File Name="StudentImportWizard_KH.dll" Folder="" Size="196096" Digest="NNKOtQEmWjTnfG6IN6e+Z0paPh0=">
       <AssemblyName>StudentImportWizard_KH, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null</AssemblyName>
       <Version>1.0.0.2</Version>
@@ -30,10 +35,10 @@
       <Version>1.0.0.2</Version>
     </File>
     <File Name="StudentTransferStudentBrief_KH.pdb" Folder="" Size="56832" Digest="xfAjRmNT4U4shkyiR4z5NcRfxy0=" />
-    <File Name="StudentTransStudBase_KH.dll" Folder="" Size="36352" Digest="WKuTA/Eg1bf4iaju2FXCozbF8hk=">
-      <AssemblyName>StudentTransStudBase_KH, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null</AssemblyName>
-      <Version>1.0.0.2</Version>
+    <File Name="StudentTransStudBase_KH.dll" Folder="" Size="37376" Digest="S+cqshs8mEh46ZWgnGWIRHJAIDg=">
+      <AssemblyName>StudentTransStudBase_KH, Version=1.0.0.4, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.4</Version>
     </File>
-    <File Name="StudentTransStudBase_KH.pdb" Folder="" Size="40448" Digest="plRAjnJvnW9flTehUGXFV8wsjb8=" />
+    <File Name="StudentTransStudBase_KH.pdb" Folder="" Size="40448" Digest="2p6VySwBEnj5jJ3cAsKiVK6fLqg=" />
   </Files>
 </Release>

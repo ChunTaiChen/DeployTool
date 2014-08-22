@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Dependency>
-  <Assembly FullName="ClassLock_KH, Version=1.0.0.7, Culture=neutral, PublicKeyToken=null">
+  <Assembly FullName="ClassLock_KH, Version=1.0.0.8, Culture=neutral, PublicKeyToken=null">
     <Reference FullName="FISCA.UDT, Version=1.0.2.2, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="FISCA.Presentation, Version=1.1.0.19, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
@@ -11,7 +11,7 @@
     <Reference FullName="FISCA.DSAClient, Version=1.0.1.3, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="FISCA.DSAUtil, Version=3.2.21.7, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="FISCA, Version=2.5.0.1, Culture=neutral, PublicKeyToken=null" />
-    <Reference FullName="KH_HighConcernCalc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="KH_HighConcernCalc, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="K12.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="FISCA.Presentation, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="FISCA.Permission, Version=1.2.0.2, Culture=neutral, PublicKeyToken=null" />
@@ -36,10 +36,22 @@
     <Reference FullName="K12.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="FISCA.Presentation, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null" />
   </Assembly>
-  <Assembly FullName="KH_HighConcernCalc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+  <Assembly FullName="KH_HighConcernCalc, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null">
     <Reference FullName="FISCA.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
   </Assembly>
-  <Assembly FullName="StudentClassItem_KH, Version=1.0.0.10, Culture=neutral, PublicKeyToken=null">
+  <Assembly FullName="StudentChangeStatus_KH, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <Reference FullName="Tagging, Version=1.0.2.16, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Presentation, Version=1.1.0.19, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Data, Version=2.0.0.5, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
+    <Reference FullName="Customization.Tagging, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA, Version=2.5.0.1, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="K12.Data, Version=2.0.0.2, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.LogAgent, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.Authentication, Version=1.9.0.18, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="FISCA.DSAClient, Version=1.0.1.16, Culture=neutral, PublicKeyToken=null" />
+  </Assembly>
+  <Assembly FullName="StudentClassItem_KH, Version=1.0.0.13, Culture=neutral, PublicKeyToken=null">
     <Reference FullName="FISCA.Presentation, Version=1.1.0.19, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="IRewriteAPI_JH, Version=1.0.0.5, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />
@@ -53,7 +65,7 @@
     <Reference FullName="Framework, Version=1.0.0.10, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="FISCA.Authentication, Version=1.9.0.18, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="FISCA.DSAClient, Version=1.0.1.16, Culture=neutral, PublicKeyToken=null" />
-    <Reference FullName="KH_HighConcernCalc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Reference FullName="KH_HighConcernCalc, Version=1.0.0.4, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="FISCA.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
   </Assembly>
   <Assembly FullName="StudentImportWizard_KH, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null">
@@ -89,7 +101,7 @@
     <Reference FullName="FISCA.Core, Version=1.0.1.5, Culture=neutral, PublicKeyToken=a269f410f9e2a287" />
     <Reference FullName="KH_HighConcernCalc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
   </Assembly>
-  <Assembly FullName="StudentTransStudBase_KH, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null">
+  <Assembly FullName="StudentTransStudBase_KH, Version=1.0.0.4, Culture=neutral, PublicKeyToken=null">
     <Reference FullName="FISCA.Presentation, Version=1.1.0.19, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="IRewriteAPI_JH, Version=1.0.0.5, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="JHSchool.Data, Version=2.0.0.2, Culture=neutral, PublicKeyToken=null" />
