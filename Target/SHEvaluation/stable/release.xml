@@ -1,0 +1,69 @@
+﻿<Release Version="3.0.5.1">
+  <Files>
+    <File Name="ClassExamReport.dll" Folder="" Size="560640" Digest="Du497iazDCLdOT7rIZEGJB8oTPY=">
+      <AssemblyName>ClassExamReport, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+    <File Name="ClassExamReport.pdb" Folder="" Size="148992" Digest="MIzRUYucz8nHTU/Hb7W951gNZpI=" />
+    <File Name="ClassSemesterScoreReportFixed_SH.dll" Folder="" Size="779776" Digest="jnCU8W8ukH7N7P6KrStR17XgoHU=">
+      <AssemblyName>ClassSemesterScoreReportFixed_SH, Version=1.0.0.5, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.5</Version>
+    </File>
+    <File Name="ClassSemesterScoreReportFixed_SH.pdb" Folder="" Size="116224" Digest="Oljpo012xZLhFphWYcePuqjfNX8=" />
+    <File Name="ExamReport.dll" Folder="" Size="147968" Digest="JyDH9UU1v30uuxOIggYcZep/WYw=">
+      <AssemblyName>ExamReport, Version=2.9.0.1, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>2.9.0.1</Version>
+    </File>
+    <File Name="ExamReport.pdb" Folder="" Size="194048" Digest="6ffh2INJPuS2oeLpcWVTViubg6o=" />
+    <File Name="SchoolYearScoreReportNew.dll" Folder="" Size="99840" Digest="a5bW0NxDJ96ByKK94JbbHjdPmfo=">
+      <AssemblyName>SchoolYearScoreReportNew, Version=1.1.0.5, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.1.0.5</Version>
+    </File>
+    <File Name="SchoolYearScoreReportNew.pdb" Folder="" Size="110080" Digest="btgM1JRlkfqdnhqHWDO8HgUHk7k=" />
+    <File Name="SHCourseScoreInputStatus.dll" Folder="" Size="22016" Digest="qNzoyoedQiRS5Z/Jc3HdZIGxK4Y=">
+      <AssemblyName>SHCourseScoreInputStatus, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.2</Version>
+    </File>
+    <File Name="SHCourseScoreInputStatus.pdb" Folder="" Size="32256" Digest="uaCBs8OltWt/KzwuFawp25JtHOY=" />
+    <File Name="SHStaticRank.Data.dll" Folder="" Size="43520" Digest="RU3VhDE3P1N2dl715TNsN6CKNO0=">
+      <AssemblyName>SHStaticRank.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+    <File Name="SHStaticRank.Data.pdb" Folder="" Size="44544" Digest="PhcNej9wx8dyjqmvxBNvp6wHayw=" />
+    <File Name="SHStaticRank2.Data.dll" Folder="" Size="1005056" Digest="KKMz0j5e2bKD9bDfxJlzf/t9JR8=">
+      <AssemblyName>SHStaticRank2.Data, Version=1.0.0.18, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.18</Version>
+    </File>
+    <File Name="SHStaticRank2.Data.pdb" Folder="" Size="204288" Digest="zByo3EQMWxLdaepuZH+VrxPVH3Q=" />
+    <File Name="SHStaticRank2.Data.StarTechnical.dll" Folder="" Size="353792" Digest="+oc/s2xAIfIERhI+dqatUSixFfg=">
+      <AssemblyName>SHStaticRank2.Data.StarTechnical, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.1</Version>
+    </File>
+    <File Name="SHStaticRank2.Data.StarTechnical.pdb" Folder="" Size="48640" Digest="r0QJu7WmR052fv7k8+CFCfFckRA=" />
+    <File Name="SHStaticRank2.Data.StarUniversity.dll" Folder="" Size="317440" Digest="X1HtZhH+GZ2UdD0djnf1UPCsSjo=">
+      <AssemblyName>SHStaticRank2.Data.StarUniversity, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.1</Version>
+    </File>
+    <File Name="SHStaticRank2.Data.StarUniversity.pdb" Folder="" Size="32256" Digest="Z7znTjOZK4qMVgG6ZxlafPQ4aWc=" />
+    <File Name="SH_SemesterScoreReport.dll" Folder="" Size="2391040" Digest="zQ4YVkWtQd8IyqscfhexLqs3jGE=">
+      <AssemblyName>SH_SemesterScoreReport, Version=1.0.0.7, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.7</Version>
+    </File>
+    <File Name="SH_SemesterScoreReport.pdb" Folder="" Size="157184" Digest="Dt/sTLjoiljxJsQtf5vLsmqj0/0=" />
+    <File Name="SmartSchool.Evaluation.HS.dll" Folder="" Size="2972160" Digest="E356ATFqG44mhq3gPa+k/NEVebk=">
+      <AssemblyName>SmartSchool.Evaluation.HS, Version=1.0.5.22, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.5.22</Version>
+    </File>
+    <File Name="SmartSchool.Evaluation.HS.pdb" Folder="" Size="1748480" Digest="Cgwgo1s3K9V8GIz7M0wI2ZgxMR0=" />
+    <File Name="StudentCourseScoreCheck100_SH.dll" Folder="" Size="23552" Digest="KdGfeY0Ft34+zV8Ei7Gsuznj0Go=">
+      <AssemblyName>StudentCourseScoreCheck100_SH, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.1</Version>
+    </File>
+    <File Name="StudentCourseScoreCheck100_SH.pdb" Folder="" Size="32256" Digest="c3GsWf09/JfQUc9HoNZ1/N/HhDo=" />
+    <File Name="Test.dll" Folder="" Size="2306048" Digest="T9Tas9s3MPn6x1IcJ8TICN0aaJI=">
+      <AssemblyName>Test, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.3</Version>
+    </File>
+    <File Name="Test.pdb" Folder="" Size="183808" Digest="mHS+ch0vLtLpWjon0Af26s1lHGE=" />
+  </Files>
+</Release>

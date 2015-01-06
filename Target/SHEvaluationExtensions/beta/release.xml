@@ -1,0 +1,24 @@
+﻿<Release Version="0.0.1.0">
+  <Files>
+    <File Name="SHEvaluationExtensions.dll" Folder="" Size="345088" Digest="9xQfGZ2u2CV8ChZwWKEsEO4Ppfc=">
+      <AssemblyName>SHEvaluationExtensions, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.1</Version>
+    </File>
+    <File Name="SHEvaluationExtensions.pdb" Folder="" Size="112128" Digest="G37+5IxMWlw+i3G2wW9ElH4nagI=" />
+    <File Name="SHSchool.Evaluation.dll" Folder="" Size="37376" Digest="dWtvz1EJF+5erGhDMJ+IYvJydek=">
+      <AssemblyName>SHSchool.Evaluation, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.6</Version>
+    </File>
+    <File Name="SHSchool.Evaluation.pdb" Folder="" Size="38400" Digest="pT0E5zg8CK/HkHFat1hOeVYLELo=" />
+    <File Name="SH_DaliSemesterReportEnglishGPA.dll" Folder="" Size="438272" Digest="phF+EWqKr+C6jxstGrPvkDcHO0M=">
+      <AssemblyName>SH_DaliSemesterReportEnglishGPA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+    <File Name="SH_DaliSemesterReportEnglishGPA.pdb" Folder="" Size="261632" Digest="3HRS2bCvpBl/phoxhwhYTSO/9HU=" />
+    <File Name="SH_StudentRecordReport.dll" Folder="" Size="522240" Digest="vlukZU0mi6CMCfkhAI60vmU+wQE=">
+      <AssemblyName>SH_StudentRecordReport, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+    <File Name="SH_StudentRecordReport.pdb" Folder="" Size="237056" Digest="R4oWyU5qK80MVn92JAyltA5c9z0=" />
+  </Files>
+</Release>

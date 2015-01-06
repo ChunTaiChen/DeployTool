@@ -1,0 +1,9 @@
+﻿<Release Version="0.0.0.13">
+  <Files>
+    <File Name="SHCollege.dll" Folder="" Size="314368" Digest="r6Uaqw+AOu5VMhn+r7fVCMnN21s=">
+      <AssemblyName>SHCollege, Version=1.0.0.9, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.9</Version>
+    </File>
+    <File Name="SHCollege.pdb" Folder="" Size="208384" Digest="OjzqwVFU2g4lqfefU5uMrDAoeC8=" />
+  </Files>
+</Release>

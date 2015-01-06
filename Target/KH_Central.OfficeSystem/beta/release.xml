@@ -1,9 +1,9 @@
-﻿<Release Version="0.0.3.14">
+﻿<Release Version="0.0.4.1">
   <Files>
-    <File Name="KH_Central.OfficeSystem.dll" Folder="" Size="205824" Digest="Z/zCTe9RJ4erCP1v6rcfIzn5DAc=">
-      <AssemblyName>KH_Central.OfficeSystem, Version=1.0.0.43, Culture=neutral, PublicKeyToken=null</AssemblyName>
-      <Version>1.0.0.43</Version>
+    <File Name="KH_Central.OfficeSystem.dll" Folder="" Size="205824" Digest="o0Ux0DfDgJ2Dlenmmhm71yLmO/I=">
+      <AssemblyName>KH_Central.OfficeSystem, Version=1.0.0.47, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.47</Version>
     </File>
-    <File Name="KH_Central.OfficeSystem.pdb" Folder="" Size="192000" Digest="VwlzOCL8T67Mi8+FA8+BODzeAYg=" />
+    <File Name="KH_Central.OfficeSystem.pdb" Folder="" Size="192000" Digest="HwkhdL9ZgO/53E5leihu3YaWZp8=" />
   </Files>
 </Release>

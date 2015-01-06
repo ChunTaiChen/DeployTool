@@ -1,10 +1,10 @@
-﻿<Release Version="0.0.1.9">
+﻿<Release Version="0.0.1.10">
   <Files>
-    <File Name="KaoHsiungExamScore_JH.dll" Folder="" Size="836608" Digest="NFxWqylL12WIC+cxQTMFm3tRMg8=">
-      <AssemblyName>KaoHsiungExamScore_JH, Version=1.0.0.13, Culture=neutral, PublicKeyToken=null</AssemblyName>
-      <Version>1.0.0.13</Version>
+    <File Name="KaoHsiungExamScore_JH.dll" Folder="" Size="837120" Digest="x8S5vzHKWNsp9mOwoU3TAfO0HG0=">
+      <AssemblyName>KaoHsiungExamScore_JH, Version=1.0.0.14, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.14</Version>
     </File>
-    <File Name="KaoHsiungExamScore_JH.pdb" Folder="" Size="151040" Digest="mXeuEG6+C0v3zJiaVzeI/WCFqqQ=" />
+    <File Name="KaoHsiungExamScore_JH.pdb" Folder="" Size="140800" Digest="5CDXbCx38n+c/8fhDQCU8ODq1aI=" />
     <File Name="KH.DataExchange.103.dll" Folder="" Size="228352" Digest="usHxsnPQE83H7OjG59OZh0jYsv4=">
       <AssemblyName>KH.DataExchange.103, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null</AssemblyName>
       <Version>1.0.0.6</Version>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Dependency>
-  <Assembly FullName="KaoHsiungExamScore_JH, Version=1.0.0.13, Culture=neutral, PublicKeyToken=null">
+  <Assembly FullName="KaoHsiungExamScore_JH, Version=1.0.0.14, Culture=neutral, PublicKeyToken=null">
     <Reference FullName="FISCA.Presentation, Version=1.1.0.15, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="FISCA.UDT, Version=1.0.2.2, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="Aspose.Words, Version=14.1.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56" />
@@ -25,7 +25,7 @@
     <Reference FullName="FISCA.Permission, Version=1.1.0.15, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="FISCA.Data, Version=1.0.0.3, Culture=neutral, PublicKeyToken=null" />
   </Assembly>
-  <Assembly FullName="KH_StudentScoreSummaryReport, Version=1.0.0.4, Culture=neutral, PublicKeyToken=null">
+  <Assembly FullName="KH_StudentScoreSummaryReport, Version=1.0.0.6, Culture=neutral, PublicKeyToken=null">
     <Reference FullName="FISCA.Presentation, Version=1.1.0.19, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="Campus, Version=2.0.0.16, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="JHEvaluation.ScoreCalculation, Version=1.0.0.15, Culture=neutral, PublicKeyToken=null" />

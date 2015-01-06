@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Dependency>
-  <Assembly FullName="KaoHsiungExamScore_JH, Version=1.0.0.13, Culture=neutral, PublicKeyToken=null">
+  <Assembly FullName="KaoHsiungExamScore_JH, Version=1.0.0.14, Culture=neutral, PublicKeyToken=null">
     <Reference FullName="FISCA.Presentation, Version=1.1.0.15, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="FISCA.UDT, Version=1.0.2.2, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="Aspose.Words, Version=14.1.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56" />

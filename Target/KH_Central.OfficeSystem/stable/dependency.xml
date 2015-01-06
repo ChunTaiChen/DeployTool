@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Dependency>
-  <Assembly FullName="KH_Central.OfficeSystem, Version=1.0.0.43, Culture=neutral, PublicKeyToken=null">
+  <Assembly FullName="KH_Central.OfficeSystem, Version=1.0.0.47, Culture=neutral, PublicKeyToken=null">
     <Reference FullName="FISCA.UDT, Version=1.0.2.2, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="FISCA.Presentation, Version=1.1.0.18, Culture=neutral, PublicKeyToken=null" />
     <Reference FullName="DevComponents.DotNetBar2, Version=9.5.0.1, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04" />

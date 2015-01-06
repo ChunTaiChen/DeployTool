@@ -1,0 +1,9 @@
+﻿<Release Version="0.0.0.1">
+  <Files>
+    <File Name="ClassStudentScoreReport_P.dll" Folder="" Size="101888" Digest="Bv0fTmv2KloGu7pBdPYxqtiVuf0=">
+      <AssemblyName>ClassStudentScoreReport_P, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+    <File Name="ClassStudentScoreReport_P.pdb" Folder="" Size="44544" Digest="CWqI1zJo+3Wbq1AU+HyZQfHbanc=" />
+  </Files>
+</Release>

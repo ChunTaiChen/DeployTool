@@ -1,0 +1,9 @@
+﻿<Release Version="0.0.0.10">
+  <Files>
+    <File Name="KHJHLog.dll" Folder="" Size="254464" Digest="d5AvcUlGLZqOSP5gZ9mgfSc+hb8=">
+      <AssemblyName>KHJHLog, Version=1.0.6.15, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.6.15</Version>
+    </File>
+    <File Name="KHJHLog.pdb" Folder="" Size="128512" Digest="KgTp8QV8IaAoMdXzrlW+I02+hPA=" />
+  </Files>
+</Release>

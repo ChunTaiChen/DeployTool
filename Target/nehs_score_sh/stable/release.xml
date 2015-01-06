@@ -1,0 +1,9 @@
+﻿<Release Version="0.0.0.1">
+  <Files>
+    <File Name="ClassExamReport_nehs.dll" Folder="" Size="565248" Digest="llXwSipF1LWbtGUzTVpGDtaRTlI=">
+      <AssemblyName>ClassExamReport_nehs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+    <File Name="ClassExamReport_nehs.pdb" Folder="" Size="159232" Digest="N1Lr+meBqIkjMErURI89rUdGtmc=" />
+  </Files>
+</Release>

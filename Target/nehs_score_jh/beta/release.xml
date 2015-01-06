@@ -1,0 +1,9 @@
+﻿<Release Version="0.0.0.3">
+  <Files>
+    <File Name="HsinChu.ClassExamScoreReportV21.dll" Folder="" Size="123904" Digest="NiJBEy3XzM/QZmfqsQ4GLMOJTE4=">
+      <AssemblyName>HsinChu.ClassExamScoreReportV21, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.2</Version>
+    </File>
+    <File Name="HsinChu.ClassExamScoreReportV21.pdb" Folder="" Size="138752" Digest="qHumNNHJz71Jvjg2EIdCGnCCIy0=" />
+  </Files>
+</Release>
