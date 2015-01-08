@@ -1,14 +1,14 @@
-﻿<Release Version="0.0.1.5">
+﻿<Release Version="0.0.1.7">
   <Files>
     <File Name="Example_ExportExcessCreditsBaseData_.dll" Folder="" Size="72192" Digest="JQ0XH2v+XrEBywedghLUJ9bdEjw=">
       <AssemblyName>Example_ExportExcessCreditsBaseData_, Version=1.0.0.2, Culture=neutral, PublicKeyToken=null</AssemblyName>
       <Version>1.0.0.2</Version>
     </File>
     <File Name="Example_ExportExcessCreditsBaseData_.pdb" Folder="" Size="75264" Digest="V1xfqHYxmm4jJVG9jJI6oXWGwH8=" />
-    <File Name="ischoolJHWishBase.dll" Folder="" Size="99840" Digest="+z2vDLYU1jNP4tgiDo2A41Pnj1U=">
-      <AssemblyName>ischoolJHWishBase, Version=1.0.0.17, Culture=neutral, PublicKeyToken=null</AssemblyName>
-      <Version>1.0.0.17</Version>
+    <File Name="ischoolJHWishBase.dll" Folder="" Size="140800" Digest="VVLdISoG56BRuQkNdJILRIUFiBw=">
+      <AssemblyName>ischoolJHWishBase, Version=1.0.0.21, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.21</Version>
     </File>
-    <File Name="ischoolJHWishBase.pdb" Folder="" Size="91648" Digest="rGl3ms8uKZtKZNaKvmrqqzuvUQ0=" />
+    <File Name="ischoolJHWishBase.pdb" Folder="" Size="146944" Digest="sqCO0hTTrKCVO7OCdN6QjX7PaIc=" />
   </Files>
 </Release>

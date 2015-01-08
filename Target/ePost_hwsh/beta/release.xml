@@ -1,0 +1,9 @@
+﻿<Release Version="0.0.0.1">
+  <Files>
+    <File Name="SH_SemesterScoreReport_hwsh.dll" Folder="" Size="2569216" Digest="oTUOGXGX6+9ZBNftfcF2VNf6FkU=">
+      <AssemblyName>SH_SemesterScoreReport_hwsh, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+      <Version>1.0.0.0</Version>
+    </File>
+    <File Name="SH_SemesterScoreReport_hwsh.pdb" Folder="" Size="163328" Digest="grSMp0M1Bo5Idm5/BHIzHRThg1Q=" />
+  </Files>
+</Release>

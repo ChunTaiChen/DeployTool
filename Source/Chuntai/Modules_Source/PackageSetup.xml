@@ -38,12 +38,12 @@
   <App Title="高雄市局端系統" Description="" Output2="" Name="KH_Central.OfficeSystem" ReplaceAllReleaseFromAlpha="true" />
   <App Title="員林個人段考成績單epost" Description="" Output2="" Name="SH_yhcvs_ExamScore_epost" ReplaceAllReleaseFromAlpha="true" />
   <App Title="新竹國中成績報表" Description="" Output2="" Name="JHHsinChuScoreReports" ReplaceAllReleaseFromAlpha="true" />
-  <App Title="高雄國中成績報表" Description="" Output2="" Name="JHKaoHsiungScoreReports" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="高雄國中成績報表" Description="" Output2="" Name="JHKaoHsiungScoreReports" ReplaceAllReleaseFromAlpha="false" />
   <App Title="世界高中輔導報表" Description="" Output2="" Name="wvsCounselReport" ReplaceAllReleaseFromAlpha="true" />
   <App Title="國高中學籍工具" Description="" Output2="" Name="K12PermrecTools" ReplaceAllReleaseFromAlpha="true" />
   <App Title="重補修" Description="" Output2="" Name="K12Retake" ReplaceAllReleaseFromAlpha="true" />
   <App Title="高中舊學籍表" Description="" Output2="" Name="SHArchiveImage" ReplaceAllReleaseFromAlpha="true" />
-  <App Title="十二年國教" Description="" Output2="" Name="JHWishEnrolmentExcess" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="十二年國教" Description="" Output2="" Name="JHWishEnrolmentExcess" ReplaceAllReleaseFromAlpha="false" />
   <App Title="高中成績延伸模組" Description="" Output2="" Name="SHEvaluationExtensions" ReplaceAllReleaseFromAlpha="true" />
   <App Title="門禁模組(中華電信)" Description="" Output2="" Name="AccessControlCardCHT" ReplaceAllReleaseFromAlpha="true" />
   <App Title="高中學籍進校延伸模組" Description="" Output2="" Name="SHDayPermrec_N_Extend" ReplaceAllReleaseFromAlpha="true" />
@@ -56,4 +56,9 @@
   <App Title="學時制留級與補考名單(外掛報表)" Description="" Output2="" Name="plugin01" ReplaceAllReleaseFromAlpha="true" />
   <App Name="KHJHCentralOffice" ReplaceAllReleaseFromAlpha="true" />
   <App Title="高雄市局端系統-自動編班" Description="" Output2="" Name="KHJHLog" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="實驗中學-國中部成績特別版" Description="" Output2="" Name="nehs_score_jh" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="大學繁星推薦模組" Description="" Output2="" Name="SHCollegeSAT" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="實驗中學-高中部成績客製版" Description="" Output2="" Name="nehs_score_sh" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="實驗中學-國小部成績客製版" Description="" Output2="" Name="nehs_score_p" ReplaceAllReleaseFromAlpha="true" />
+  <App Title="惠文高中ePost" Description="" Output2="" Name="ePost_hwsh" ReplaceAllReleaseFromAlpha="true" />
 </Apps>
